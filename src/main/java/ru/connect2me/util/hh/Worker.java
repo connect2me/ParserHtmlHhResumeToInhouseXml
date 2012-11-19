@@ -3,6 +3,7 @@ package ru.connect2me.util.hh;
 import ru.connect2me.util.hh.config.Configuration;
 import ru.connect2me.util.hh.config.Module;
 import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
+import ru.connect2me.util.hh.config.XMLConfiguration;
 import ru.connect2me.util.hh.helper.Check;
 
 /**
@@ -14,8 +15,8 @@ import ru.connect2me.util.hh.helper.Check;
  */
 public class Worker extends Module implements Command {
 
-  public Worker(Configuration config) {
-    super(config);
+  public Worker() throws ParserHtmlHhResumeToInhouseXmlException {
+    super(new XMLConfiguration(Main.class.getResourceAsStream("/config.xml")));
   }
 
   @Override

@@ -12,6 +12,6 @@ import ru.connect2me.util.hh.config.XMLConfiguration;
  */
 public class Main {
   public static void main(String[] args) throws ParserHtmlHhResumeToInhouseXmlException {
-    new Worker(new XMLConfiguration(Main.class.getResourceAsStream("/config.xml"))).execute("html");
+    new Worker().execute("html");
   }
 }

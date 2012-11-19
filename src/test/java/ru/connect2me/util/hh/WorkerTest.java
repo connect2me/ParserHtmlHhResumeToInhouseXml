@@ -4,17 +4,14 @@ import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
-import ru.connect2me.util.hh.config.XMLConfiguration;
 
 /**
- *
- * @author r.zaynullin
+ * Проверка класса Worker на различные входные значения
+ * @author Зайнуллин Радик
  */
 @RunWith(JUnit4.class)
 public class WorkerTest {
@@ -32,17 +29,12 @@ public class WorkerTest {
   @After
   public void tearDown() {}
 
-  @Rule
-  public ExpectedException exception = ExpectedException.none();
-
   @Test(expected = ParserHtmlHhResumeToInhouseXmlException.class)
   public void executeNullThrowsParserHtmlHhResumeToInhouseXmlException() throws ParserHtmlHhResumeToInhouseXmlException {
-    Worker instance = new Worker(new XMLConfiguration(Main.class.getResourceAsStream("/config.xml")));
-    instance.execute(null);
+    new Worker().execute(null);
   }
   @Test(expected = ParserHtmlHhResumeToInhouseXmlException.class)
   public void executeEmptyThrowsParserHtmlHhResumeToInhouseXmlException() throws ParserHtmlHhResumeToInhouseXmlException {
-    Worker instance = new Worker(new XMLConfiguration(Main.class.getResourceAsStream("/config.xml")));
-    instance.execute("  ");
+    new Worker().execute("  ");
   }  
 }
