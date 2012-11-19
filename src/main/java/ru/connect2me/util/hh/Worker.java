@@ -20,6 +20,7 @@ public class Worker extends Module implements Command {
   @Override
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException {
     Check check = ctx.getBean("check", Check.class);
+    if (!check.isWellFormed(html)) throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл не является xml well-formed!");
 
 
     return "Hello World!";

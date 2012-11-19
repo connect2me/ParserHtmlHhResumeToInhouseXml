@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" id="js-disabled">
-  <!--request: 76135496ca0d6c18a9377f5a484204fd-->  <head>
+  <!--request: 9012d194f5b885d406bcc9afce1ab148-->  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <title>
-      Секретарь на ресепшен
+      Менеджер по развитию продуктов
     </title>
     <meta name="description" content="HeadHunter (hh.ru) &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1103;&#1077;&#1090; &#1085;&#1072;&#1081;&#1090;&#1080; &#1088;&#1072;&#1073;&#1086;&#1090;&#1091; &#1074; &#1052;&#1086;&#1089;&#1082;&#1074;&#1077;, &#1088;&#1077;&#1075;&#1080;&#1086;&#1085;&#1072;&#1093; &#1080; &#1079;&#1072; &#1088;&#1091;&#1073;&#1077;&#1078;&#1086;&#1084;. HeadHunter - &#1101;&#1090;&#1086; &#1082;&#1072;&#1095;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1072;&#1103; &#1073;&#1072;&#1079;&#1072; &#1088;&#1077;&#1079;&#1102;&#1084;&#1077; &#1080; &#1074;&#1072;&#1082;&#1072;&#1085;&#1089;&#1080;&#1081; &#1080; &#1083;&#1091;&#1095;&#1096;&#1080;&#1077; &#1089;&#1077;&#1088;&#1074;&#1080;&#1089;&#1099; &#1076;&#1083;&#1103; &#1087;&#1086;&#1080;&#1089;&#1082;&#1072; &#1088;&#1072;&#1073;&#1086;&#1090;&#1099; &#1080; &#1087;&#1077;&#1088;&#1089;&#1086;&#1085;&#1072;&#1083;&#1072;."/>
     <meta name="keywords" content="&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;, &#1074;&#1072;&#1082;&#1072;&#1085;&#1089;&#1080;&#1080;, &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;, &#1087;&#1086;&#1080;&#1089;&#1082; &#1074;&#1072;&#1082;&#1072;&#1085;&#1089;&#1080;&#1081;, &#1088;&#1077;&#1079;&#1102;&#1084;&#1077;, &#1088;&#1072;&#1073;&#1086;&#1090;&#1099;, &#1088;&#1072;&#1073;&#1086;&#1090;&#1091;, &#1088;&#1072;&#1073;&#1086;&#1090;, &#1080;&#1097;&#1091; &#1088;&#1072;&#1073;&#1086;&#1090;&#1091;, &#1087;&#1086;&#1080;&#1089;&#1082;"/>
@@ -227,7 +227,7 @@ HH.setConvertionGoal=function(name){
           <script type="text/javascript">
 //<![CDATA[
 //<!--
-if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=hh.ru&multy=false&uid=1353316197.518004019665109&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '258'); }; };
+if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=hh.ru&multy=false&uid=1353316541.539766612414891&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '258'); }; };
 //-->
 //]]>
           </script>
@@ -238,7 +238,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=
           <script type="text/javascript">
 //<![CDATA[
 //<!--
-if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=hh.ru&multy=false&uid=1353316197.518004019665109&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '259'); }; };
+if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=hh.ru&multy=false&uid=1353316541.539766612414891&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '259'); }; };
 //-->
 //]]>
           </script>
@@ -780,7 +780,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 <div class="HH-Employer-ResumeFolders-Resume">
                   <div class="HH-Employer-ResumeFolders-Data folders-select_star" onclick="
                 return {
-                    id:&apos;19879291&apos;,
+                    id:&apos;19358134&apos;,
                     folders: []
                 }
             ">
@@ -810,7 +810,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 
 //]]>
               </script>
-              <!--noindex-->              <a href="/resume/dd2b731102012f557b000bd22e786e506d7270?print=true" class="topbutton m-switcher_999 m-switcher_noborder m-resume__print noprint" target="_blank">
+              <!--noindex-->              <a href="/resume/e2b8640b02012761b6000bd22e396252644579?print=true" class="topbutton m-switcher_999 m-switcher_noborder m-resume__print noprint" target="_blank">
                 Распечатать
               </a>
               <!--/noindex-->              <div class="topbutton noprint" onclick="return {types: [&apos;{jsxComponents}.ToggleBlock&apos;],&apos;{jsxComponents}.ToggleBlock&apos;: {closeByClick:true}}">
@@ -825,7 +825,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                   </div>
                   <ul>
                     <li class="saveas-item">
-                      <a href="/resume_converter/&#1042;&#1080;&#1085;&#1086;&#1082;&#1091;&#1088;&#1086;&#1074;&#1072; &#1042;&#1080;&#1082;&#1090;&#1086;&#1088;&#1080;&#1103; &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1085;&#1072;.doc?hash=dd2b731102012f557b000bd22e786e506d7270&amp;type=rtf">
+                      <a href="/resume_converter/&#1042;&#1072;&#1088;&#1077;&#1085;&#1085;&#1080;&#1082;&#1086;&#1074; &#1050;&#1080;&#1088;&#1080;&#1083;&#1083; &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;&#1086;&#1074;&#1080;&#1095;.doc?hash=e2b8640b02012761b6000bd22e396252644579&amp;type=rtf">
                         DOC
                         <span>
                           (MS Word)
@@ -833,7 +833,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       </a>
                     </li>
                     <li class="saveas-item">
-                      <a href="/resume_converter/&#1042;&#1080;&#1085;&#1086;&#1082;&#1091;&#1088;&#1086;&#1074;&#1072; &#1042;&#1080;&#1082;&#1090;&#1086;&#1088;&#1080;&#1103; &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1085;&#1072;.pdf?hash=dd2b731102012f557b000bd22e786e506d7270&amp;type=pdf">
+                      <a href="/resume_converter/&#1042;&#1072;&#1088;&#1077;&#1085;&#1085;&#1080;&#1082;&#1086;&#1074; &#1050;&#1080;&#1088;&#1080;&#1083;&#1083; &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;&#1086;&#1074;&#1080;&#1095;.pdf?hash=e2b8640b02012761b6000bd22e396252644579&amp;type=pdf">
                         PDF
                         <span>
                           (Adobe Reader)
@@ -841,7 +841,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       </a>
                     </li>
                     <li class="saveas-item">
-                      <a href="/resume/print.do?id=dd2b731102012f557b000bd22e786e506d7270" target="_blank">
+                      <a href="/resume/print.do?id=e2b8640b02012761b6000bd22e396252644579" target="_blank">
                         TXT
                         <span>
                           (Notepad)
@@ -869,10 +869,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
             </div>
             <div class="topbuttons nopaddings">
               <div class="plate noprint ">
-                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=19879291">
+                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=19358134">
                   Пригласить
                 </a>
-                <a href="/employer/mailToApplicant.do?resumeId=19879291" class="g-button m-button_grey">
+                <a href="/employer/mailToApplicant.do?resumeId=19358134" class="g-button m-button_grey">
                   Написать письмо
                 </a>
               </div>
@@ -917,10 +917,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 <div class="resume__photo" onclick="
                 return {types:[&apos;{HH}.Resume.ImagePopup&apos;]}
             ">
-                  <a href="/photo/398870196.jpeg?t=1353402600&amp;s=041edd9ad00cc4069ff36afa7afcebc9" class="HH-Resume-ImagePopup-Link" title="&#1042;&#1080;&#1085;&#1086;&#1082;&#1091;&#1088;&#1086;&#1074;&#1072; &#1042;&#1080;&#1082;&#1090;&#1086;&#1088;&#1080;&#1103;">
-                    <img src="/photo/398870197.jpeg?t=1353402600&amp;s=b5813b3982799dbb75735ca164117687" alt="" class="noprint"/>
+                  <a href="/photo/4745749.jpg?t=1353402945&amp;s=6629aee3f155e2ae2a84cdbef4660e39" class="HH-Resume-ImagePopup-Link" title="&#1042;&#1072;&#1088;&#1077;&#1085;&#1085;&#1080;&#1082;&#1086;&#1074; &#1050;&#1080;&#1088;&#1080;&#1083;&#1083;">
+                    <img src="/photo/4745748.jpg?t=1353402945&amp;s=800d9aead3ff399324d9656b0bebe6bb" alt="" class="noprint"/>
                   </a>
-                  <img src="/photo/398870196.jpeg?t=1353402600&amp;s=041edd9ad00cc4069ff36afa7afcebc9" class="noscreen print-resume_photo" alt=""/>
+                  <img src="/photo/4745749.jpg?t=1353402945&amp;s=6629aee3f155e2ae2a84cdbef4660e39" class="noscreen print-resume_photo" alt=""/>
                   <div class="g-hidden HH-Resume-ImagePopup-Popup b-popup resume__portfolio__popup">
                     <img src="http://i.hh.ru/i/hh/dot.gif" class="HH-Resume-ImagePopup-Image"/>
                     <div class="HH-Resume-ImagePopup-Title" style="text-align:left">
@@ -946,29 +946,33 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
               <div class="resume__mainblock__main">
                 <div class="resume__personal">
                   <div class="resume__personal__name">
-                    Винокурова Виктория Александровна
+                    Варенников Кирилл Владимирович
                   </div>
                   <div class="resume__inlinelist">
                     <span class="resume__inlinelist__item">
                       <strong>
-                        22 года
+                        28 лет
                       </strong>
-                       (27 июня 1990)
+                       (30 декабря 1983)
                     </span>
                     <span class="resume__inlinelist__item">
                       <strong>
-                        Женский
+                        Мужской
                       </strong>
                        пол
                     </span>
                     <span class="resume__inlinelist__item">
                       <strong>
-                        Санкт-Петербург
+                        Москва
                       </strong>
-                      , не готова к переезду
+                      , 
+                      <span style="color:#F60">
+                        м. ВДНХ
+                      </span>
+                      , готов к переезду (Санкт-Петербург)
                     </span>
                     <span class="resume__inlinelist__item">
-                      Готова к командировкам
+                      Готов к командировкам
                     </span>
                   </div>
                 </div>
@@ -978,7 +982,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       <div class="resume__contacts__phone">
                         <span class="resume__contacts__phone__number">
                           
-                        +7 952 2231162
+                        +7 926 3141422
                         </span>
                         <span class="resume__contacts__preferred__hint">
                           желаемый способ связи
@@ -990,8 +994,8 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                     <span class="resume__inlinelist__item">
                       <span>
                         <span>
-                          <a href="mailto:vinokurova-viktoria@yandex.ru">
-                            vinokurova-viktoria@yandex.ru
+                          <a href="mailto:varennikov@gmail.com">
+                            varennikov@gmail.com
                           </a>
                         </span>
                       </span>
@@ -1012,13 +1016,13 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 </div>
               </div>
               <div class="resume__position__title">
-                Секретарь на ресепшен
+                Менеджер по развитию продуктов
               </div>
               <div class="resume__position__salary">
-                18 000 руб.
+                100 000 руб.
               </div>
               <div class="resume__position__specialization">
-                Начало карьеры, студенты → Туризм, Гостиницы, Рестораны, Транспорт, Логистика, Строительство, Архитектура
+                Информационные технологии, интернет, телеком → Управление проектами, Маркетинг, Электронная коммерция
               </div>
               Полная занятость,  Полный день
             </div>
@@ -1033,50 +1037,463 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
               <div class="resume__experience">
                 <div class="resume__experience__item">
                   <div>
-                    Сентябрь 2011 — 
-                    <span style="text-transform:lowercase">
-                      Октябрь
-                    </span>
-                     2011
+                    Январь 2012 — по настоящее время
                   </div>
                   <div>
                     <strong>
-                      Гостиница "Астерия"
+                      Агрегатор и контент провайдер Playfon, ООО “Плэйфон Мобайл Маркетинг”
                     </strong>
                      (
                     <span>
-                      Санкт-Петербург
+                      Москва
                     </span>
                     , 
                     <span>
-                      <a class="resume__experience__url" href="http://www.asteria.ru">
-                        www.asteria.ru
+                      <a class="resume__experience__url" href="http://corp.playfon.ru/">
+                        corp.playfon.ru/
                       </a>
                     </span>
                     ) 
                     <span class="resume__experience__industry">
-                       — Туризм/гостиницы/рестораны
+                       — Телекоммуникации/связь
                     </span>
                   </div>
                   <div>
                     <strong>
-                      Портье
+                      Менеджер по развитию продуктов
                     </strong>
                   </div>
                   <div class="resume__experience__desc" onclick="
                 return {types:[&apos;{HH}.Linkify&apos;]}
             ">
-                    - учет движения номерного фонда гостиницы
+                    Проведение маркетинговых исследований, SWOT
                     <br xmlns=""/>
-                    - прием и оформление необходимых документов
                     <br xmlns=""/>
-                    - регистрация российских и иностранных граждан
+                    Выбор и реализация продуктовой стратегии
                     <br xmlns=""/>
-                    - ведение документации
+                    - Определение ключевых характеристик разрабатываемого (модифицируемого) продукта
                     <br xmlns=""/>
-                    - заказ и бронирование экскурсий/театральных/жд-/авиа- билетов
+                    - Создание технического задания для ИТ подразделения с целью производства программного обеспечения, определение технико-экономического обоснования для выбора исполнителя работ (аутсор / инсорс) 
                     <br xmlns=""/>
-                    - работа с кассой
+                    - Создание функционального задания для бизнес аналитика с целью доработки системы статистики
+                    <br xmlns=""/>
+                    - Разработка руководства пользователя и описание продукта для согласования с операторами сотовой связи
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Формирование ценовой стратегии
+                    <br xmlns=""/>
+                    - Разработка тарифов, а также регламента их выбора в соответствии с категорией клиента
+                    <br xmlns=""/>
+                    - Создание и ведение Profit and Loss (PnL)
+                    <br xmlns=""/>
+                    - Создание и поддержка стратегии дистрибуции
+                    <br xmlns=""/>
+                    - Определение плана продаж
+                    <br xmlns=""/>
+                    - Создание карты-схемы категорий потенциальных партнеров
+                    <br xmlns=""/>
+                    - Разработка инструкций по борьбе с возражениями, оценки оборота партнера, оценки маржинальности партнера
+                    <br xmlns=""/>
+                    - Аккумулирование и анализ кейсов продаж 
+                    <br xmlns=""/>
+                    - Обучение и аттестация руководителей и менеджеров отдела продаж в рамках своей линейки продуктов
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Формирование и реализация стратегии продвижения
+                    <br xmlns=""/>
+                    - Создание упрощенных форм подачи и описания продуктов
+                    <br xmlns=""/>
+                    - Определение площадок под мобильную рекламу
+                    <br xmlns=""/>
+                    - Участие в просветительских бизнес-завтраках с привлечения партнеров 
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Оптимизация и совершенствование стратегии обслуживания
+                    <br xmlns=""/>
+                    - Разработка ТЗ на готовые технических решения (скрипты) для партнеров
+                    <br xmlns=""/>
+                    - Создание и внедрение KPI для отдела технической поддержки абонентов
+                    <br xmlns=""/>
+                    - Определение плана удержания партнеров для отдела аккаунтов
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Управление качеством продуктов, аудит метрик
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Июль 2010 — 
+                    <span style="text-transform:lowercase">
+                      Январь
+                    </span>
+                     2012
+                  </div>
+                  <div>
+                    <strong>
+                      Агрегатор и контент провайдер Playfon, ООО “Плэйфон Мобайл Маркетинг”
+                    </strong>
+                     (
+                    <span>
+                      Москва
+                    </span>
+                    , 
+                    <span>
+                      <a class="resume__experience__url" href="http://corp.playfon.ru/">
+                        corp.playfon.ru/
+                      </a>
+                    </span>
+                    ) 
+                    <span class="resume__experience__industry">
+                       — Телекоммуникации/связь
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Старший менеджер по работе с клиентами (развитие партнерской программы)
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - Полный цикл продаж и обслуживания ключевых клиентов и партнеров (электронная/мобильная корммерция);
+                    <br xmlns=""/>
+                    - Ведение переговоров с клиентами, анализ их потребностей, подготовка коммерческих предложений и договоров;
+                    <br xmlns=""/>
+                    - Контроль проектов и взаиморасчетов с клиентами: 
+                    <br xmlns=""/>
+                    - Координация внутренних подразделений компании по вопросам подключения, запуска и обслуживания проектов;
+                    <br xmlns=""/>
+                    - Развитие партнерской программы по направлениям Микроплатежи (смс-агрегация), Мобильная коммерция, СМС информирование (рассылки),Контент;
+                    <br xmlns=""/>
+                    - Проведение переговоров, презентаций, составление коммерческих предложений, заключение договоров c партнерами;
+                    <br xmlns=""/>
+                    - Обеспечение лояльности партнеров.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Апрель 2008 — 
+                    <span style="text-transform:lowercase">
+                      Июль
+                    </span>
+                     2010
+                  </div>
+                  <div>
+                    <strong>
+                      Михайлов и Партнеры. Управление стратегическими коммуникациями
+                    </strong>
+                     (
+                    <span>
+                      Москва
+                    </span>
+                    , 
+                    <span>
+                      <a class="resume__experience__url" href="http://www.m-p.ru/">
+                        www.m-p.ru/
+                      </a>
+                    </span>
+                    ) 
+                    <span class="resume__experience__industry">
+                       — Маркетинг/реклама/PR
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Старший менеджер отдела специальных проектов
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - взаимодействие с подрядчиками (внешними и внутренними)
+                    <br xmlns=""/>
+                    - получение финансово-юридической информации от подрядчиков;
+                    <br xmlns=""/>
+                    - контроль заключения договоров и оплаты работ подрядным организациям;
+                    <br xmlns=""/>
+                    - контроль подписания финансово-юридических закрывающих документов с подрядчиками (договор, акт, накладные, счет-фактура). 
+                    <br xmlns=""/>
+                    - сводная отчетность для клиента - формирование сводных документов по проекту (смета, контроль подготовки договора, содержательный отчет, контроль подготовки закрывающих финансовых документов) 
+                    <br xmlns=""/>
+                    - управление клиентскими отношениями - согласование с Клиентом сводных документов по проекту (подготовка обоснований стоимости работ, корректировка документов на основании замечаний Клиента); обеспечение «закрытия» проектов 
+                    <br xmlns=""/>
+                    - координация участия БЕ в тендерах 
+                    <br xmlns=""/>
+                    - общий менеджмент
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Декабрь 2006 — 
+                    <span style="text-transform:lowercase">
+                      Декабрь
+                    </span>
+                     2007
+                  </div>
+                  <div>
+                    <strong>
+                      ООО "Информ -Мобил"
+                    </strong>
+                     (
+                    <span>
+                      Королев
+                    </span>
+                    , 
+                    <span>
+                      <a class="resume__experience__url" href="http://www.inform-mobil.ru/">
+                        www.inform-mobil.ru/
+                      </a>
+                    </span>
+                    ) 
+                    <span class="resume__experience__industry">
+                       — Телекоммуникации/связь
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Менеджер отдела LBS
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - создание новых VAS (Internet/LBS)-продуктов. 
+                    <br xmlns=""/>
+                    - управление продуктами: поддержка в актуальном состоянии VAS (Internet/LBS)-продуктов, запущенных в коммерческую эксплуатацию. 
+                    <br xmlns=""/>
+                    - контроль качества и сроков запуска VAS (Internet/LBS)-продукта в соответствии с утвержденным планом-графиком. 
+                    <br xmlns=""/>
+                    - прогноз продаж по продукту, контроль и корректировка прогноза. 
+                    <br xmlns=""/>
+                    - обеспечение повышения доходности по направлению продуктов. 
+                    <br xmlns=""/>
+                    - публичные выступления: подготовка и проведение презентаций, участие в выставках, конференциях.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Март 2005 — 
+                    <span style="text-transform:lowercase">
+                      Сентябрь
+                    </span>
+                     2006
+                  </div>
+                  <div>
+                    <strong>
+                      РА "Art-Com/Worldwide Partners"
+                    </strong>
+                     (
+                    <span>
+                      Москва
+                    </span>
+                    , 
+                    <span>
+                      <a class="resume__experience__url" href="http://art-com.ru/">
+                        art-com.ru/
+                      </a>
+                    </span>
+                    ) 
+                    <span class="resume__experience__industry">
+                       — Маркетинг/реклама/PR
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Менеджер по работе с клиентами
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - работа с корпоративными клиентами, 
+                    <br xmlns=""/>
+                    - составление коммерческих предложений, 
+                    <br xmlns=""/>
+                    - осуществление контроля проведения рекламных кампаний, 
+                    <br xmlns=""/>
+                    - проведение презентаций агентства клиентам. 
+                    <br xmlns=""/>
+                    - работа с дизайн-студией; 
+                    <br xmlns=""/>
+                    - координация работы дизайнеров / подрядчиков; решение конфликтных 
+                    <br xmlns=""/>
+                    - подготовка документации.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Август 2003 — 
+                    <span style="text-transform:lowercase">
+                      Август
+                    </span>
+                     2004
+                  </div>
+                  <div>
+                    <strong>
+                      Московское Представительство 'Яманучи Юроп Б.В.'
+                    </strong>
+                     (
+                    <span>
+                      Москва
+                    </span>
+                    , 
+                    <span>
+                      <a class="resume__experience__url" href="http://www.astellas.com">
+                        www.astellas.com
+                      </a>
+                    </span>
+                    ) 
+                  </div>
+                  <div>
+                    <strong>
+                      Помощник бухгалтера
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - формирование рублевых платежных документов, 
+                    <br xmlns=""/>
+                    - ведение документооборота по банковским операциям (АБН АМРО Банк, Москва), 
+                    <br xmlns=""/>
+                    - сдача бухгалтерской отчетности в налоговые органы и во внебюджетные фонды- 
+                    <br xmlns=""/>
+                    - подбор документации для книги покупок по авансам, зачитываемым при реализации продукции, 
+                    <br xmlns=""/>
+                    - оказание дополнительной помощи бухгалтерам по обработке первичной документации и формированию отчетности.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Февраль 2002 — 
+                    <span style="text-transform:lowercase">
+                      Август
+                    </span>
+                     2003
+                  </div>
+                  <div>
+                    <strong>
+                      Московское Представительство 'Яманучи Юроп Б.В.'
+                    </strong>
+                     (
+                    <span>
+                      Москва
+                    </span>
+                    , 
+                    <span>
+                      <a class="resume__experience__url" href="http://www.astellas.com">
+                        www.astellas.com
+                      </a>
+                    </span>
+                    ) 
+                  </div>
+                  <div>
+                    <strong>
+                      Секретарь приемной
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - прием и распределение звонков, 
+                    <br xmlns=""/>
+                    - информирование сотрудников офиса по текущим вопросам, 
+                    <br xmlns=""/>
+                    - прием посетителей, 
+                    <br xmlns=""/>
+                    - организация рассылки корреспонденции, 
+                    <br xmlns=""/>
+                    - координирование работы курьерских служб.
                   </div>
                   <script type="text/javascript">
 //<![CDATA[
@@ -1112,7 +1529,18 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       <div onclick="
                     return {types:[&apos;{HH}.Linkify&apos;]}
                 ">
-                        Уверенный пользователь ПК, хорошее знание английского языка, умение пользоваться оргтехникой
+                        - высокая обучаемость и восприимчивость к новой информации; 
+                        <br xmlns=""/>
+                        - способность к анализу и обобщению; 
+                        <br xmlns=""/>
+                        - стрессоустойчивость; 
+                        <br xmlns=""/>
+                        - хорошие навыки устной и письменной речи (составление докладов, подготовка выступлений); 
+                        <br xmlns=""/>
+                        - PC-user (Word, Excel, Power Point, Internet, Outlook Express); 
+                        <br xmlns=""/>
+                        - Водительские права (категория “B”). 
+                        <br xmlns=""/>
                       </div>
                       <script type="text/javascript">
 //<![CDATA[
@@ -1146,14 +1574,14 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 <tbody>
                   <tr>
                     <td style="padding-right:20px">
-                      2012
+                      2005
                     </td>
                     <td style="padding-bottom:10px">
                       <div>
-                        Санкт-Петербургский Государственный Унивеситет Сервиса и Экономики
+                        Российская Международная Академия Туризма
                       </div>
                       <div class="resume__education__org">
-                        Туризма и международных экономических отношений
+                        Факультет Туроперейтинга и гостепреимства
                       </div>
                     </td>
                   </tr>
@@ -1168,13 +1596,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                   </div>
                 </div>
                 <div>
-                  Русский — родной
-                </div>
-                <div>
-                  Английский — свободно владею
-                </div>
-                <div>
-                  Французский — базовые знания
+                  Английский — могу проходить интервью
                 </div>
               </div>
             </div>
@@ -1195,16 +1617,16 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
               <div class="resume__additional-item">
                 Желательное время в пути до работы: 
                 <span style="text-transform:lowercase">
-                  Не более полутора часов
+                  Не имеет значения
                 </span>
               </div>
             </div>
             <div class="topbuttons nopaddings">
               <div class="plate noprint ">
-                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=19879291">
+                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=19358134">
                   Пригласить
                 </a>
-                <a href="/employer/mailToApplicant.do?resumeId=19879291" class="g-button m-button_grey">
+                <a href="/employer/mailToApplicant.do?resumeId=19358134" class="g-button m-button_grey">
                   Написать письмо
                 </a>
               </div>
@@ -1214,7 +1636,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                     return { 
                         types: [&apos;{HH}.Related.Resumes&apos;], 
                         &apos;{HH}.Related.Resumes&apos; : {
-                            resumeId: &apos;19879291&apos; 
+                            resumeId: &apos;19358134&apos; 
                         } 
                     }
                 ">
@@ -1242,10 +1664,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
           <div class="g-col4 resume_side">
             <div class="HH-Resume-Print-Comment resume__aside_comments" onclick="
                 return {types:[&apos;{HH}.Resume.Comments.Add&apos;, &apos;{HH}.Resume.Comments.List&apos;],
-                &apos;{HH}.Resume.Comments.Add&apos;:{&apos;applicantId&apos; : 10761864, &apos;forceRedraw&apos;:true, &apos;focusOnOpen&apos;: true},
+                &apos;{HH}.Resume.Comments.Add&apos;:{&apos;applicantId&apos; : 243387, &apos;forceRedraw&apos;:true, &apos;focusOnOpen&apos;: true},
                 &apos;{HH}.Resume.Comments.List&apos;:{
                     
-                    &apos;applicantId&apos; : 10761864,
+                    &apos;applicantId&apos; : 243387,
                     &apos;show&apos; : 3,
                     &apos;trl&apos; : {
                         &apos;show_more&apos; : &apos;&#1042;&#1089;&#1077;&apos;,

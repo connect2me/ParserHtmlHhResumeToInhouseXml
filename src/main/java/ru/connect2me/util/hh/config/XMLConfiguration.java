@@ -21,9 +21,7 @@ public class XMLConfiguration implements Configuration {
   private Properties properties = new Properties();
 
   public XMLConfiguration(InputStream src) throws ParserHtmlHhResumeToInhouseXmlException {
-    if (src == null) {
-      throw new ParserHtmlHhResumeToInhouseXmlException("Не могу найти конфигурационного файла xml.");
-    }
+    if (src == null) throw new ParserHtmlHhResumeToInhouseXmlException("Не могу найти конфигурационного файла xml.");
     try {
       init(src);
     } catch (SAXException | IOException | ParserConfigurationException e) {

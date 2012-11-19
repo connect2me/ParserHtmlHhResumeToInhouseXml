@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" id="js-disabled">
-  <!--request: 76135496ca0d6c18a9377f5a484204fd-->  <head>
+  <!--request: fa39961526a14ba628b5ac2e112104fc-->  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <title>
-      Секретарь на ресепшен
+      Руководитель отдела, группы, проекта
     </title>
     <meta name="description" content="HeadHunter (hh.ru) &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1103;&#1077;&#1090; &#1085;&#1072;&#1081;&#1090;&#1080; &#1088;&#1072;&#1073;&#1086;&#1090;&#1091; &#1074; &#1052;&#1086;&#1089;&#1082;&#1074;&#1077;, &#1088;&#1077;&#1075;&#1080;&#1086;&#1085;&#1072;&#1093; &#1080; &#1079;&#1072; &#1088;&#1091;&#1073;&#1077;&#1078;&#1086;&#1084;. HeadHunter - &#1101;&#1090;&#1086; &#1082;&#1072;&#1095;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1072;&#1103; &#1073;&#1072;&#1079;&#1072; &#1088;&#1077;&#1079;&#1102;&#1084;&#1077; &#1080; &#1074;&#1072;&#1082;&#1072;&#1085;&#1089;&#1080;&#1081; &#1080; &#1083;&#1091;&#1095;&#1096;&#1080;&#1077; &#1089;&#1077;&#1088;&#1074;&#1080;&#1089;&#1099; &#1076;&#1083;&#1103; &#1087;&#1086;&#1080;&#1089;&#1082;&#1072; &#1088;&#1072;&#1073;&#1086;&#1090;&#1099; &#1080; &#1087;&#1077;&#1088;&#1089;&#1086;&#1085;&#1072;&#1083;&#1072;."/>
     <meta name="keywords" content="&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;, &#1074;&#1072;&#1082;&#1072;&#1085;&#1089;&#1080;&#1080;, &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;, &#1087;&#1086;&#1080;&#1089;&#1082; &#1074;&#1072;&#1082;&#1072;&#1085;&#1089;&#1080;&#1081;, &#1088;&#1077;&#1079;&#1102;&#1084;&#1077;, &#1088;&#1072;&#1073;&#1086;&#1090;&#1099;, &#1088;&#1072;&#1073;&#1086;&#1090;&#1091;, &#1088;&#1072;&#1073;&#1086;&#1090;, &#1080;&#1097;&#1091; &#1088;&#1072;&#1073;&#1086;&#1090;&#1091;, &#1087;&#1086;&#1080;&#1089;&#1082;"/>
@@ -227,7 +227,7 @@ HH.setConvertionGoal=function(name){
           <script type="text/javascript">
 //<![CDATA[
 //<!--
-if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=hh.ru&multy=false&uid=1353316197.518004019665109&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '258'); }; };
+if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=hh.ru&multy=false&uid=1353316948.573396947000845&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '258'); }; };
 //-->
 //]]>
           </script>
@@ -238,7 +238,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=
           <script type="text/javascript">
 //<![CDATA[
 //<!--
-if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=hh.ru&multy=false&uid=1353316197.518004019665109&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '259'); }; };
+if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=hh.ru&multy=false&uid=1353316948.573396947000845&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '259'); }; };
 //-->
 //]]>
           </script>
@@ -780,7 +780,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 <div class="HH-Employer-ResumeFolders-Resume">
                   <div class="HH-Employer-ResumeFolders-Data folders-select_star" onclick="
                 return {
-                    id:&apos;19879291&apos;,
+                    id:&apos;3510093&apos;,
                     folders: []
                 }
             ">
@@ -810,7 +810,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 
 //]]>
               </script>
-              <!--noindex-->              <a href="/resume/dd2b731102012f557b000bd22e786e506d7270?print=true" class="topbutton m-switcher_999 m-switcher_noborder m-resume__print noprint" target="_blank">
+              <!--noindex-->              <a href="/resume/f6f17d330200358f4d000bd22e736563726574?print=true" class="topbutton m-switcher_999 m-switcher_noborder m-resume__print noprint" target="_blank">
                 Распечатать
               </a>
               <!--/noindex-->              <div class="topbutton noprint" onclick="return {types: [&apos;{jsxComponents}.ToggleBlock&apos;],&apos;{jsxComponents}.ToggleBlock&apos;: {closeByClick:true}}">
@@ -825,7 +825,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                   </div>
                   <ul>
                     <li class="saveas-item">
-                      <a href="/resume_converter/&#1042;&#1080;&#1085;&#1086;&#1082;&#1091;&#1088;&#1086;&#1074;&#1072; &#1042;&#1080;&#1082;&#1090;&#1086;&#1088;&#1080;&#1103; &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1085;&#1072;.doc?hash=dd2b731102012f557b000bd22e786e506d7270&amp;type=rtf">
+                      <a href="/resume_converter/&#1055;&#1088;&#1086;&#1096;&#1072;&#1075;&#1080;&#1085; &#1057;&#1090;&#1072;&#1085;&#1080;&#1089;&#1083;&#1072;&#1074; &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;&#1086;&#1074;&#1080;&#1095;.doc?hash=f6f17d330200358f4d000bd22e736563726574&amp;type=rtf">
                         DOC
                         <span>
                           (MS Word)
@@ -833,7 +833,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       </a>
                     </li>
                     <li class="saveas-item">
-                      <a href="/resume_converter/&#1042;&#1080;&#1085;&#1086;&#1082;&#1091;&#1088;&#1086;&#1074;&#1072; &#1042;&#1080;&#1082;&#1090;&#1086;&#1088;&#1080;&#1103; &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088;&#1086;&#1074;&#1085;&#1072;.pdf?hash=dd2b731102012f557b000bd22e786e506d7270&amp;type=pdf">
+                      <a href="/resume_converter/&#1055;&#1088;&#1086;&#1096;&#1072;&#1075;&#1080;&#1085; &#1057;&#1090;&#1072;&#1085;&#1080;&#1089;&#1083;&#1072;&#1074; &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;&#1086;&#1074;&#1080;&#1095;.pdf?hash=f6f17d330200358f4d000bd22e736563726574&amp;type=pdf">
                         PDF
                         <span>
                           (Adobe Reader)
@@ -841,7 +841,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       </a>
                     </li>
                     <li class="saveas-item">
-                      <a href="/resume/print.do?id=dd2b731102012f557b000bd22e786e506d7270" target="_blank">
+                      <a href="/resume/print.do?id=f6f17d330200358f4d000bd22e736563726574" target="_blank">
                         TXT
                         <span>
                           (Notepad)
@@ -869,10 +869,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
             </div>
             <div class="topbuttons nopaddings">
               <div class="plate noprint ">
-                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=19879291">
+                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=3510093">
                   Пригласить
                 </a>
-                <a href="/employer/mailToApplicant.do?resumeId=19879291" class="g-button m-button_grey">
+                <a href="/employer/mailToApplicant.do?resumeId=3510093" class="g-button m-button_grey">
                   Написать письмо
                 </a>
               </div>
@@ -917,10 +917,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 <div class="resume__photo" onclick="
                 return {types:[&apos;{HH}.Resume.ImagePopup&apos;]}
             ">
-                  <a href="/photo/398870196.jpeg?t=1353402600&amp;s=041edd9ad00cc4069ff36afa7afcebc9" class="HH-Resume-ImagePopup-Link" title="&#1042;&#1080;&#1085;&#1086;&#1082;&#1091;&#1088;&#1086;&#1074;&#1072; &#1042;&#1080;&#1082;&#1090;&#1086;&#1088;&#1080;&#1103;">
-                    <img src="/photo/398870197.jpeg?t=1353402600&amp;s=b5813b3982799dbb75735ca164117687" alt="" class="noprint"/>
+                  <a href="/photo/406639693.jpeg?t=1353403352&amp;s=64d7f6f723d4f3f10d3d1bd200f0dd25" class="HH-Resume-ImagePopup-Link" title="&#1055;&#1088;&#1086;&#1096;&#1072;&#1075;&#1080;&#1085; &#1057;&#1090;&#1072;&#1085;&#1080;&#1089;&#1083;&#1072;&#1074;">
+                    <img src="/photo/406639692.jpeg?t=1353403352&amp;s=55b1115d16c7a327950b8140c3c7de25" alt="" class="noprint"/>
                   </a>
-                  <img src="/photo/398870196.jpeg?t=1353402600&amp;s=041edd9ad00cc4069ff36afa7afcebc9" class="noscreen print-resume_photo" alt=""/>
+                  <img src="/photo/406639693.jpeg?t=1353403352&amp;s=64d7f6f723d4f3f10d3d1bd200f0dd25" class="noscreen print-resume_photo" alt=""/>
                   <div class="g-hidden HH-Resume-ImagePopup-Popup b-popup resume__portfolio__popup">
                     <img src="http://i.hh.ru/i/hh/dot.gif" class="HH-Resume-ImagePopup-Image"/>
                     <div class="HH-Resume-ImagePopup-Title" style="text-align:left">
@@ -946,29 +946,33 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
               <div class="resume__mainblock__main">
                 <div class="resume__personal">
                   <div class="resume__personal__name">
-                    Винокурова Виктория Александровна
+                    Прошагин Станислав Владимирович
                   </div>
                   <div class="resume__inlinelist">
                     <span class="resume__inlinelist__item">
                       <strong>
-                        22 года
+                        40 лет
                       </strong>
-                       (27 июня 1990)
+                       (15 марта 1972)
                     </span>
                     <span class="resume__inlinelist__item">
                       <strong>
-                        Женский
+                        Мужской
                       </strong>
                        пол
                     </span>
                     <span class="resume__inlinelist__item">
                       <strong>
-                        Санкт-Петербург
+                        Москва
                       </strong>
-                      , не готова к переезду
+                      , 
+                      <span style="color:#7ba400">
+                        м. Марьино
+                      </span>
+                      , не готов к переезду
                     </span>
                     <span class="resume__inlinelist__item">
-                      Готова к командировкам
+                      Готов к редким командировкам
                     </span>
                   </div>
                 </div>
@@ -978,7 +982,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       <div class="resume__contacts__phone">
                         <span class="resume__contacts__phone__number">
                           
-                        +7 952 2231162
+                        +7 916 7487147
                         </span>
                         <span class="resume__contacts__preferred__hint">
                           желаемый способ связи
@@ -990,8 +994,8 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                     <span class="resume__inlinelist__item">
                       <span>
                         <span>
-                          <a href="mailto:vinokurova-viktoria@yandex.ru">
-                            vinokurova-viktoria@yandex.ru
+                          <a href="mailto:st.pro@inbox.ru">
+                            st.pro@inbox.ru
                           </a>
                         </span>
                       </span>
@@ -999,7 +1003,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                   </div>
                 </div>
                 <span class="resume__updated">
-                  Резюме обновлено 2 часа назад
+                  Резюме обновлено 18 минут назад
                 </span>
               </div>
             </div>
@@ -1012,13 +1016,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 </div>
               </div>
               <div class="resume__position__title">
-                Секретарь на ресепшен
-              </div>
-              <div class="resume__position__salary">
-                18 000 руб.
+                Руководитель отдела, группы, проекта
               </div>
               <div class="resume__position__specialization">
-                Начало карьеры, студенты → Туризм, Гостиницы, Рестораны, Транспорт, Логистика, Строительство, Архитектура
+                Информационные технологии, интернет, телеком → Управление проектами, Телекоммуникации, Системная интеграция
               </div>
               Полная занятость,  Полный день
             </div>
@@ -1033,50 +1034,512 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
               <div class="resume__experience">
                 <div class="resume__experience__item">
                   <div>
-                    Сентябрь 2011 — 
-                    <span style="text-transform:lowercase">
-                      Октябрь
-                    </span>
-                     2011
+                    Март 2010 — по настоящее время
                   </div>
                   <div>
                     <strong>
-                      Гостиница "Астерия"
+                      Системный интегратор, оператор связи
                     </strong>
                      (
                     <span>
-                      Санкт-Петербург
-                    </span>
-                    , 
-                    <span>
-                      <a class="resume__experience__url" href="http://www.asteria.ru">
-                        www.asteria.ru
-                      </a>
+                      Москва
                     </span>
                     ) 
                     <span class="resume__experience__industry">
-                       — Туризм/гостиницы/рестораны
+                       — Телекоммуникации/связь
                     </span>
                   </div>
                   <div>
                     <strong>
-                      Портье
+                      Главный менеджер проектов
                     </strong>
                   </div>
                   <div class="resume__experience__desc" onclick="
                 return {types:[&apos;{HH}.Linkify&apos;]}
             ">
-                    - учет движения номерного фонда гостиницы
+                    - Выполнение работ по реализации инфраструктурных проектов.
                     <br xmlns=""/>
-                    - прием и оформление необходимых документов
+                    - Планирование по реализации инфраструктурных проектов.
                     <br xmlns=""/>
-                    - регистрация российских и иностранных граждан
+                    - Организация работ с субподрядными компаниями, контроль и ответственность за ведение соответствующих договоров.
                     <br xmlns=""/>
-                    - ведение документации
+                    - Взаимодействие с органами государственной власти, силовыми структурами и органами местного самоуправления в рамках ФЗ, для реализации контролируемых проектов.
                     <br xmlns=""/>
-                    - заказ и бронирование экскурсий/театральных/жд-/авиа- билетов
+                    - Соблюдение сроков прохождения контрольных точек по пулу инфраструктурных проектов.
                     <br xmlns=""/>
-                    - работа с кассой
+                    - Отслеживание потенциальных рисков проектов, внесение предложений по своевременному реагированию на риски.
+                    <br xmlns=""/>
+                    - Проектная отчетность. Оптимизация проектной деятельности. Повышение эффективности управления проектами.
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Достижения:
+                    <br xmlns=""/>
+                    Реализация проектов по 8 очередям строительства, монтажа и пуско-наладки комплексов в рамках госпрограмм в ЦФО.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Октябрь 2009 — 
+                    <span style="text-transform:lowercase">
+                      Январь
+                    </span>
+                     2010
+                  </div>
+                  <div>
+                    <strong>
+                      Ротабаннер, ООО (Artemy Lebedev Group)
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Дизайн/мультимедиа/полиграфия
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Менеджер производства
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - управление и оптимизация процессов производства в департаментах компании, веб-проекты.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Август 2008 — 
+                    <span style="text-transform:lowercase">
+                      Октябрь
+                    </span>
+                     2009
+                  </div>
+                  <div>
+                    <strong>
+                      Фирма "АйТи". Информационные технологии, ЗАО (Москва)
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Информационные технологии/системная интеграция
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Руководитель проектов
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - персональная ответственность за качество процессов управления и результат проекта в целом; 
+                    <br xmlns=""/>
+                    - постановка задач, техническое руководство профильными специалистами и ресурсами на этапах продажи и разработки проектов;
+                    <br xmlns=""/>
+                    - участие в разработке договорной, проектной и другой документации, необходимой для реализации проектов;
+                    <br xmlns=""/>
+                    - управление комплексными проектами (инфраструктура, заказная разработка) на всех этапах работ – от этапа контрактования до этапа закрытия сделки: организация исполнения обязательств по проектам, ведение планов событий по проектам и контроль их выполнения, ведение переговоров с заказчиками по исполнению, закрытию этапов работ, проектов и договоров, организация работы сотрудников, входящих в рабочие группы по проектам.
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Достижения:
+                    <br xmlns=""/>
+                    Реализованы проекты инфраструктурных решений для компаний: Пегас туристик, Bassel Sales, ОПТИМА, университет МТУСИ, РусГидро, Газпромэнерго, Роснефть, Башнефть, ФСК ЕЭС.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Апрель 2008 — 
+                    <span style="text-transform:lowercase">
+                      Август
+                    </span>
+                     2008
+                  </div>
+                  <div>
+                    <strong>
+                      Безопасные БиоСистемы, ООО (Москва) - создание и продвижение программно-аппаратного биометрического комплекса по защите персональной и корпоративной информации в сетях Интернет/Интранет, банковских системах, системах электронных платежей
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Информационные технологии/системная интеграция
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Директор департамента интеграции
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - интеграция программно-аппаратного биометрического комплекса по защите персональной и корпоративной информации, 
+                    <br xmlns=""/>
+                    - менеджер проектов.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Июль 2005 — 
+                    <span style="text-transform:lowercase">
+                      Август
+                    </span>
+                     2008
+                  </div>
+                  <div>
+                    <strong>
+                      ПромСвязьМонтаж, ООО (Чистополь)
+                    </strong>
+                  </div>
+                  <div>
+                    <strong>
+                      Главный инженер
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - инженерно-техническое сопровождение строительно-монтажных работ, 
+                    <br xmlns=""/>
+                    - руководитель проектов.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Сентябрь 2005 — 
+                    <span style="text-transform:lowercase">
+                      Апрель
+                    </span>
+                     2008
+                  </div>
+                  <div>
+                    <strong>
+                      Социнтех-Инстал, ЗАО (Москва) - полный комплекс работ по строительству GSM-сетей: от поиска площадки под строительство до сдачи объекта связи в эксплуатацию, включая проектно-изыскательские работы, проектирование, строительство, монтаж, шефмонтаж, пуско-наладка систем сотовой, радиорелейной и опто-волоконной связи
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Строительство/архитектура/недвижимость
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      Ведущий региональный менеджер, руководитель регионального отделения
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - полное управление региональным представительством Компании (до 20 человек);
+                    <br xmlns=""/>
+                    - руководство проектами на всех этапах работ: получение исходно-разрешительной документации, проведение проектно-изыскательских работ, оценка и утверждение необходимых объемов финансирования и ресурсов; реализация строительно-монтажных работ, в т.ч. по технологиям кондиционирования, отопления, пожаротушения, сигнализации, согласование РД с гос.органами и муниципальными структурами, гарантийное и пост-гарантийное обслуживание введенных в эксплуатацию объектов;
+                    <br xmlns=""/>
+                    - финансовое планирование, техническое и технологическое обеспечение, кадровая политика представительства и подразделений;
+                    <br xmlns=""/>
+                    - контроль и постоянное повышение эффективности и качества проводимых работ, соблюдение поставленных Заказчиком сроков, развитие взаимовыгодного сотрудничества с подрядными организациями;
+                    <br xmlns=""/>
+                    - согласования проектной документации, приемки законченных строительством объектов, пуск объекта в эксплуатацию;
+                    <br xmlns=""/>
+                    - стратегическое планирование деятельности, поиск новых перспективных объемов работ, непосредственное участие в выигрыше тендеров, проводимых Заказчиком;
+                    <br xmlns=""/>
+                    - ключевая поддержка и продвижение политики Компании в регионе, защита интересов перед Заказчиком, мотивация, на требуемое качество и результат работ, сотрудников и подрядных организаций.
+                    <br xmlns=""/>
+                    <br xmlns=""/>
+                    Достижения:
+                    <br xmlns=""/>
+                    спроектированы, построены и сданы в эксплуатацию более 80 базовых станций и репитеров GSM-связи, в том числе 7 башенных (+72.5 м.) позиций, проведены модернизации ранее построенных объектов, радиорелейных направлений и ВОЛС.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Май 2003 — 
+                    <span style="text-transform:lowercase">
+                      Сентябрь
+                    </span>
+                     2005
+                  </div>
+                  <div>
+                    <strong>
+                      Социнтех Инсталл, ООО (Москва) - полный комплекс работ по строительству сетей сотовой связи
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Телекоммуникации/связь
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      региональный менеджер в департаменте развития
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - обеспечение инженерно-технической поддержки строительства и монтажа базовых станций;
+                    <br xmlns=""/>
+                    - согласования проектной документации, приемки законченных строительством объектов, пуск объекта в эксплуатацию;
+                    <br xmlns=""/>
+                    - инсталляция, интеграция базовых станций, радиорелейных систем, систем мониторинга;
+                    <br xmlns=""/>
+                    - снабжение, логистика, сопровождение грузов и техники;
+                    <br xmlns=""/>
+                    - управление персоналом.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Апрель 1998 — 
+                    <span style="text-transform:lowercase">
+                      Май
+                    </span>
+                     2003
+                  </div>
+                  <div>
+                    <strong>
+                      Татинком-Т, ОАО (Казань) - Республиканский оператор сотовой связи стандарта TDMA/DAMPS
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Телекоммуникации/связь
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      инженер II категории в отделе эксплуатации сети сотовой связи
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    инженер эксплуатации и обслуживания коммутатора сотовой связи и базовых станций.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Ноябрь 1997 — 
+                    <span style="text-transform:lowercase">
+                      Март
+                    </span>
+                     1998
+                  </div>
+                  <div>
+                    <strong>
+                      Татинком, ПКО (Казань) - Республиканский оператор сотовой связи стандарта TDMA/DAMPS
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Телекоммуникации/связь
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      инженер в отделе эксплуатации базовых станций
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    инженер эксплуатации и обслуживания коммутатора сотовой связи и базовых станций.
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Январь 1997 — 
+                    <span style="text-transform:lowercase">
+                      Ноябрь
+                    </span>
+                     1997
+                  </div>
+                  <div>
+                    <strong>
+                      Сетера, Рекламное Агентство
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Маркетинг/реклама/PR
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      ведущий веб-мастер, программист
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - разработка и сопровождение веб-сайтов, 
+                    <br xmlns=""/>
+                    - программирование динамического веб-контента.
+                    <br xmlns=""/>
+                    (с 11.1997г до 03.2003г. - по совместительству)
+                  </div>
+                  <script type="text/javascript">
+//<![CDATA[
+
+                (function(){
+                    HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                    document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                    var c = document.getElementById('c' + HH.cid).previousSibling;
+                    try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                    }catch(e){};
+                })();
+                
+//]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Январь 1996 — 
+                    <span style="text-transform:lowercase">
+                      Декабрь
+                    </span>
+                     1996
+                  </div>
+                  <div>
+                    <strong>
+                      Строительная компания Прокс-ТМ, АО (Москва)
+                    </strong>
+                    <span class="resume__experience__industry">
+                       — Строительство/архитектура/недвижимость
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      инженер в отделе снабжения
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                return {types:[&apos;{HH}.Linkify&apos;]}
+            ">
+                    - инженерное сопровождение производимых работ,
+                    <br xmlns=""/>
+                    - снабжение, логистика, 
+                    <br xmlns=""/>
+                    - поэтапный контроль качества монтажа и строительства.
                   </div>
                   <script type="text/javascript">
 //<![CDATA[
@@ -1112,7 +1575,39 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       <div onclick="
                     return {types:[&apos;{HH}.Linkify&apos;]}
                 ">
-                        Уверенный пользователь ПК, хорошее знание английского языка, умение пользоваться оргтехникой
+                        Опыт компьютерной, оргтехники - с 1987г. 
+                        <br xmlns=""/>
+                        MS Dos, Windows, MS Office, MS Project, MS Sharepoint, Web Access, AutoCAD, Lotus Notes. 
+                        <br xmlns=""/>
+                        Internet, Web-технологии: HTML/DHTML, CSS, Java, РНР, mySQL, Corel Draw, Photoshop, веб-дизайн. 
+                        <br xmlns=""/>
+                        Узкоспециализированный телеком-софт: LinkView (DMC), OMT-19(21) (Ericsson), LMT (Huawei), CME B085 (Huawei). 
+                        <br xmlns=""/>
+                        <br xmlns=""/>
+                        Библиотеки знаний по менеджменту: PMBoK, MOF, MBA.
+                        <br xmlns=""/>
+                        <br xmlns=""/>
+                        Водительские права категории В с 1997г. 
+                        <br xmlns=""/>
+                        <br xmlns=""/>
+                        Допуск к гостайне – 3 форма допуска.
+                        <br xmlns=""/>
+                        <br xmlns=""/>
+                        Пожелания к новому месту работы: 
+                        <br xmlns=""/>
+                        Реальные перспективы карьерного роста, обучения, работа с новыми информационными технологиями, управление отделом (направлением, филиалом), оптимизация взаимодействия департаментов, внедрение инноваций и технологий, развитие стратегически важных направлений компании, поддержка и продвижение перспективных проектов и решений, адекватное и посильное участие в росте компании на внутреннем (внешнем) рынке услуг и технологий, управление персоналом компании. 
+                        <br xmlns=""/>
+                        <br xmlns=""/>
+                        Место работы:
+                        <br xmlns=""/>
+                        Москва, МО / полная занятость, возможны командировки (до 30%, либо по согласованию).
+                        <br xmlns=""/>
+                        <br xmlns=""/>
+                        Участие в крупных проектах: 
+                        <br xmlns=""/>
+                        - Региональная экспансия сети сотовой связи крупнейшего российского GSM-оператора (2002-2008гг.)
+                        <br xmlns=""/>
+                        - Реализация инфраструктурных проектов для ряда государственных заказчиков по государственным программам (2010-2012 гг.).
                       </div>
                       <script type="text/javascript">
 //<![CDATA[
@@ -1146,14 +1641,14 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                 <tbody>
                   <tr>
                     <td style="padding-right:20px">
-                      2012
+                      1996
                     </td>
                     <td style="padding-bottom:10px">
                       <div>
-                        Санкт-Петербургский Государственный Унивеситет Сервиса и Экономики
+                        Санкт-Петербургский Государственный Технический Университет
                       </div>
                       <div class="resume__education__org">
-                        Туризма и международных экономических отношений
+                        Факультет Технической Кибернетики, кафедра Автоматики и вычисл.техники, инженер-системотехник, специальность "Управление и информатика в технических системах"
                       </div>
                     </td>
                   </tr>
@@ -1171,12 +1666,169 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                   Русский — родной
                 </div>
                 <div>
-                  Английский — свободно владею
-                </div>
-                <div>
-                  Французский — базовые знания
+                  Английский — читаю профессиональную литературу
                 </div>
               </div>
+              <table class="resume__twocols">
+                <tbody>
+                  <tr>
+                    <td class="resume__twocols_cell">
+                      <div class="resume-block__title m-resume-block__title_sub">
+                        <div class="resume-block__title__text">
+                          <span>
+                            Повышение квалификации, курсы
+                          </span>
+                        </div>
+                      </div>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2012
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Установка, настройка и эксплуатация системы VOCORD Traffic
+                              </div>
+                              <div class="resume__education__org">
+                                ЗАО "Вокорд Телеком", сертификат
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2012
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Безопасность строительства. Организация строительства, реконструкции и капитального ремонта
+                              </div>
+                              <div class="resume__education__org">
+                                МАСПК, удостоверение о повышении квалификации
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2011
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Проектирование зданий и сооружений
+                              </div>
+                              <div class="resume__education__org">
+                                Международная академия менеджмента, маркетинга и инжиниринга, удостоверение
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2008
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                WCDMA NodeB Overview - Engineering Training
+                              </div>
+                              <div class="resume__education__org">
+                                Huawei Training Center (Moscow), certified course
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2004
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                RBS 2206 Installation, Testing &amp; Integration
+                              </div>
+                              <div class="resume__education__org">
+                                Ericsson Training Center (Moscow), certified course
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              1989
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Управление подготовки кадров
+                              </div>
+                              <div class="resume__education__org">
+                                ПО "КамАЗ", электромеханик ЭВМ
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                    <td class="resume__twocols_cell">
+                      <div class="resume-block__title m-resume-block__title_sub">
+                        <div class="resume-block__title__text">
+                          <span>
+                            Тесты, экзамены
+                          </span>
+                        </div>
+                      </div>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2009
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Управление проектами: Жизненный цикл сделки
+                              </div>
+                              <div class="resume__education__org">
+                                ЗАО "Фирма "АйТи". Информационные технологии", сдан
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2009
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Управление проектами: Корпоративная система информационного управления
+                              </div>
+                              <div class="resume__education__org">
+                                ЗАО "Фирма "АйТи". Информационные технологии", сдан
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
             <div class="resume-block__title">
               <div class="resume-block__title__text">
@@ -1195,16 +1847,16 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
               <div class="resume__additional-item">
                 Желательное время в пути до работы: 
                 <span style="text-transform:lowercase">
-                  Не более полутора часов
+                  Не имеет значения
                 </span>
               </div>
             </div>
             <div class="topbuttons nopaddings">
               <div class="plate noprint ">
-                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=19879291">
+                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=3510093">
                   Пригласить
                 </a>
-                <a href="/employer/mailToApplicant.do?resumeId=19879291" class="g-button m-button_grey">
+                <a href="/employer/mailToApplicant.do?resumeId=3510093" class="g-button m-button_grey">
                   Написать письмо
                 </a>
               </div>
@@ -1214,7 +1866,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                     return { 
                         types: [&apos;{HH}.Related.Resumes&apos;], 
                         &apos;{HH}.Related.Resumes&apos; : {
-                            resumeId: &apos;19879291&apos; 
+                            resumeId: &apos;3510093&apos; 
                         } 
                     }
                 ">
@@ -1242,10 +1894,10 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
           <div class="g-col4 resume_side">
             <div class="HH-Resume-Print-Comment resume__aside_comments" onclick="
                 return {types:[&apos;{HH}.Resume.Comments.Add&apos;, &apos;{HH}.Resume.Comments.List&apos;],
-                &apos;{HH}.Resume.Comments.Add&apos;:{&apos;applicantId&apos; : 10761864, &apos;forceRedraw&apos;:true, &apos;focusOnOpen&apos;: true},
+                &apos;{HH}.Resume.Comments.Add&apos;:{&apos;applicantId&apos; : 1889595, &apos;forceRedraw&apos;:true, &apos;focusOnOpen&apos;: true},
                 &apos;{HH}.Resume.Comments.List&apos;:{
                     
-                    &apos;applicantId&apos; : 10761864,
+                    &apos;applicantId&apos; : 1889595,
                     &apos;show&apos; : 3,
                     &apos;trl&apos; : {
                         &apos;show_more&apos; : &apos;&#1042;&#1089;&#1077;&apos;,

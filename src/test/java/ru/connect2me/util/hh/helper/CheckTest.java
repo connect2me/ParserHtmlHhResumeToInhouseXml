@@ -30,6 +30,16 @@ public class CheckTest extends TestCase {
     writer = new StringWriter();
     IOUtils.copy(is, writer, "UTF-8");
     map.put(true, writer.toString());
+    
+    is = CheckTest.class.getResourceAsStream("/test/input/sample003.txt");
+    writer = new StringWriter();
+    IOUtils.copy(is, writer, "UTF-8");
+    map.put(true, writer.toString());    
+    
+    is = CheckTest.class.getResourceAsStream("/test/input/sample004.txt");
+    writer = new StringWriter();
+    IOUtils.copy(is, writer, "UTF-8");
+    map.put(true, writer.toString());      
   }
 
   @Override
