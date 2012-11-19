@@ -7,4 +7,9 @@
   <bean id="getId" class="ru.connect2me.util.hh.helper.Id"/>
   <bean id="getFullName" class="ru.connect2me.util.hh.helper.FullName"/>
   <bean id="getCellphone" class="ru.connect2me.util.hh.helper.Cellphone"/>
+  <bean id="getHomephone" class="ru.connect2me.util.hh.helper.Homephone"/>
+  <bean id="getLocation" class="ru.connect2me.util.hh.helper.Location"/>
+  <bean id="getBirthdate" class="ru.connect2me.util.hh.helper.Birthdate"/>
+  <bean id="getAddress" class="ru.connect2me.util.hh.helper.Address"/>
+  <bean id="getRelocation" class="ru.connect2me.util.hh.helper.Relocation"/>
 </beans>

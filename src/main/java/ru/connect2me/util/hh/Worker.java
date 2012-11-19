@@ -3,10 +3,7 @@ package ru.connect2me.util.hh;
 import ru.connect2me.util.hh.config.Module;
 import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
 import ru.connect2me.util.hh.config.XMLConfiguration;
-import ru.connect2me.util.hh.helper.Cellphone;
-import ru.connect2me.util.hh.helper.Check;
-import ru.connect2me.util.hh.helper.FullName;
-import ru.connect2me.util.hh.helper.Id;
+import ru.connect2me.util.hh.helper.*;
 
 /**
  * Входная точка сервиса
@@ -28,9 +25,14 @@ public class Worker extends Module implements Command {
     Check check = ctx.getBean("check", Check.class);
     if (!check.isWellFormed(html)) throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл не является xml well-formed!");
     // Парсинг входного текста
-    String id = ctx.getBean("getId", Id.class).get(html); // 1. Получение id резюме
-    String fullName = ctx.getBean("getFullName", FullName.class).get(html); // 2. Получение ФИО из резюме    
+    String id = ctx.getBean("getId", Id.class).get(html);                      // 1. Получение id резюме
+    String fullName = ctx.getBean("getFullName", FullName.class).get(html);    // 2. Получение ФИО из резюме    
     String cellphone = ctx.getBean("getCellphone", Cellphone.class).get(html); // 3. Получение номера мобильного телефона из резюме    
+    String homephone = ctx.getBean("getHomephone", Homephone.class).get(html); // 4. Получение номера домашнего телефона из резюме    
+    String location = ctx.getBean("getLocation", Location.class).get(html);    // 5. Получение местожительства человека из резюме  
+    String address = ctx.getBean("getAddress", Address.class).get(html);       // 6. Получение почтового адреса из резюме  
+    String birthdate = ctx.getBean("getBirthdate", Birthdate.class).get(html); // 7. Получение дня рождения из резюме
+    String relocation = ctx.getBean("getRelocation", Relocation.class).get(html); // 8. Получение готовности переехать из резюме
     
 
     return "Hello World!";

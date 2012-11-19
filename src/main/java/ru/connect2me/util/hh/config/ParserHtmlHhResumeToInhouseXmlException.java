@@ -11,5 +11,4 @@ public class ParserHtmlHhResumeToInhouseXmlException extends Exception {
   public ParserHtmlHhResumeToInhouseXmlException(String message){
     super(message);
   }
-  
 }

@@ -59,7 +59,7 @@ public class Location {
       }
       @Override
       public void characters(char[] ch, int start, int length) throws SAXException {
-        if (isName) towns.add(new String(ch, start, length));
+        if (isName) towns.add(new String(ch, start, length).trim());
       }
       @Override
       public void endElement(String uri, String localName, String qName) throws SAXException {
