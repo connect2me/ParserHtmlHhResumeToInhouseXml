@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" id="js-disabled">
+  <!--request: 5532ddd48a253f77ec25e768f0d161be-->  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>
+      Руководитель службы делопроизводства и документооборота (документационное обеспечение управления)
+    </title>
+    <meta name="description" content="HeadHunter (hh.ru) позволяет найти работу в Москве, регионах и за рубежом. HeadHunter - это качественная база резюме и вакансий и лучшие сервисы для поиска работы и персонала."/>
+    <meta name="keywords" content="работа, вакансии, работа, поиск вакансий, резюме, работы, работу, работ, ищу работу, поиск"/>
+    <meta property="og:image" content="http://i.hh.ru/i/logos/hh_ru.png"/>
+    <meta name="google-site-verification" content="cN6ngoWjOVBZJLyyHK7efAJ7YeqMS3vKAgOFKZXy-D0"/>
+    <link title="Вакансии hh.ru" type="application/opensearchdescription+xml" rel="search" href="http://i.hh.ru/opensearch-v.xml"/>
+    <link title="Резюме hh.ru" type="application/opensearchdescription+xml" rel="search" href="http://i.hh.ru/opensearch-r.xml"/>
+    <link rel="stylesheet" media="all" charset="utf-8" href="http://i.hh.ru/css/ambient/pages/__98109379893c05460ed0ee1a4bcfc3c3.css"/>
+    <link rel="stylesheet" media="all" charset="utf-8" href="http://i.hh.ru/css/ambient/pages/__a5b0d457ad3bfa625052d768e2fdd6f2.css"/>
+    <link rel="stylesheet" media="all" charset="utf-8" href="http://i.hh.ru/css/ambient/pages/__c200a5d556c02c01b1dea053dbe94d05.css"/>
+    <link rel="stylesheet" href="http://i.hh.ru/css/ambient/pages/__4a78d588dc08ac1bfcaffec569c001fb.css"/>
+    <link rel="icon" href="http://i.hh.ru/favicons/hh.ru.ico"/>
+    <script>
+      //<![CDATA[
+      document.documentElement.id = 'js-enabled';
+      //]]>
+    </script>
+    <script charset="utf-8" src="http://i.hh.ru/js/jsx/jsx.js?build=0.11.2.2">
+      //<![CDATA[
+      return {autoinit:false, base:'jquery', lang: 'RU', build:'0.11.2.2'}
+      //]]>
+    </script>
+    <script src="http://i.hh.ru/js/hh/common.js?build=0.11.2.2" charset="utf-8">
+    </script>
+    <script src="http://i.hh.ru/js/hh/poster.js?build=0.11.2.2" charset="utf-8">
+    </script>
+    <script src="http://i.hh.ru/js/hh/HHLocator.js?build=0.11.2.2" charset="utf-8">
+    </script>
+    <script>
+      //<![CDATA[
+      HH.setConvertionGoal=function(name){
+        try{yaCounter156828.hit(name)}catch(e){};
+        _gaq=window._gaq||[];_gaq.push(['main._trackPageview',name],['reg._trackPageview',name])};
+      HH.trackAnalyticsEvent=function(cat,event,label){_gaq=window._gaq||[];_gaq.push(['main._trackEvent',cat,event,label]);_gaq.push(['reg._trackEvent',cat,event,label])};
+        
+      //]]>
+    </script>
+    <script charset="utf-8">
+      //<![CDATA[
+
+      jsx.require(['Cookies'], function(){
+        try {
+          var regions = 113 == 113 ? '' : ' 113';
+          if (jsx.Cookies.get('regions') == null) {
+            jsx.Cookies.set('regions', regions, 24 * 365 * 10);
+          }
+        } catch(e){}
+      });
+        
+      //]]>
+    </script>
+  </head>
+  <body class="l-ambient">
+    <img src="http://i.hh.ru//i/hh/footer-small-logo.png" class="printlogo noscreen" alt="HH.ru"/>
+    <div class="newdesign__wrapper" onclick="return {types:['{HH}.BackUrl']}">
+      <a href="/employer/promo" data-hh-backurl-cookiename="PromoBackurl" class="newdesign__banner HH-BackUrl-Link">
+
+        Новый 
+        <em>
+          hh.ru
+        </em>
+        для эффективного поиска сотрудников 
+        <span>
+          Узнать что нового
+        </span>
+      </a>
+    </div>
+    <script type="text/javascript">
+      //<![CDATA[
+
+      (function(){
+        HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+        document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+        var c = document.getElementById('c' + HH.cid).previousSibling;
+        try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+          c.id = 'component_' + HH.cid;
+          HH.comps=HH.comps||[];HH.comps.push(c.id);
+        }catch(e){};
+      })();
+                
+      //]]>
+    </script>
+    <div class="g-row m-row_head">
+      <div class="g-col1">
+        <div class="sitesmenu" onclick="
+                  return {
+                    types:['{jsxComponents}.ToggleBlock'],
+                    '{jsxComponents}.ToggleBlock':{
+                      closeByClick: true
+                    }
+                  }
+             ">
+          Работа в 
+          <span class="g-switcher m-switcher_999 sitesmenu-trigger jsxComponents-ToggleBlock-Switcher">
+            России
+          </span>
+          <ul class="g-expandable g-dropdown HeadHunter-SitesMenu-Menu">
+            <li class="g-dropdown-title">
+              Работа в 
+              <span class="g-switcher m-switcher_999 sitesmenu-trigger jsxComponents-ToggleBlock-Switcher">
+                России
+              </span>
+            </li>
+            <noindex>
+              <li class="sitesmenu-region">
+                <a href="http://hh.ru/geo?site=hh.ru&amp;changeRegion=true" title="Россия" rel="nofollow">
+                  Россия
+                </a>
+                <ul class="sitesmenu-city">
+                  <li>
+                    <a href="http://hh.ru/geo/?site=hh.ru&amp;changeRegion=1" title="Москва" rel="nofollow">
+                      Москва
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=spb.hh.ru&amp;changeRegion=true" title="Санкт-Петербург" rel="nofollow">
+                      Санкт-Петербург
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=voronezh.hh.ru&amp;changeRegion=true" title="Воронеж" rel="nofollow">
+                      Воронеж
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=dv.hh.ru&amp;changeRegion=true" title="Дальний Восток" rel="nofollow">
+                      Дальний Восток
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=kazan.hh.ru&amp;changeRegion=true" title="Казань" rel="nofollow">
+                      Казань
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=kaluga.hh.ru&amp;changeRegion=true" title="Калуга" rel="nofollow">
+                      Калуга
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=krasnodar.hh.ru&amp;changeRegion=true" title="Краснодар" rel="nofollow">
+                      Краснодар
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=krasnoyarsk.hh.ru&amp;changeRegion=true" title="Красноярск" rel="nofollow">
+                      Красноярск
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=nn.hh.ru&amp;changeRegion=true" title="Нижний Новгород" rel="nofollow">
+                      Нижний Новгород
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=novosibirsk.hh.ru&amp;changeRegion=true" title="Новосибирск" rel="nofollow">
+                      Новосибирск
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=rostov.hh.ru&amp;changeRegion=true" title="Ростов-на-Дону" rel="nofollow">
+                      Ростов-на-Дону
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=samara.hh.ru&amp;changeRegion=true" title="Самара" rel="nofollow">
+                      Самара
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=saratov.hh.ru&amp;changeRegion=true" title="Саратов" rel="nofollow">
+                      Саратов
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=sochi.hh.ru&amp;changeRegion=true" title="Сочи" rel="nofollow">
+                      Сочи
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=ufa.hh.ru&amp;changeRegion=true" title="Уфа" rel="nofollow">
+                      Уфа
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=ural.hh.ru&amp;changeRegion=true" title="Урал" rel="nofollow">
+                      Урал
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://hh.ru/geo?site=yaroslavl.hh.ru&amp;changeRegion=true" title="Ярославль" rel="nofollow">
+                      Ярославль
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="sitesmenu-region">
+                <a href="http://hh.ru/geo?site=hh.ua&amp;changeRegion=true" title="Украина" rel="nofollow">
+                  Украина
+                </a>
+              </li>
+              <li class="sitesmenu-region">
+                <a href="http://hh.ru/geo?site=jobs.tut.by&amp;changeRegion=true" title="Беларусь" rel="nofollow">
+                  Беларусь
+                </a>
+              </li>
+              <li class="sitesmenu-region">
+                <a href="http://hh.ru/geo?site=headhunter.com.kz&amp;changeRegion=true" title="Казахстан" rel="nofollow">
+                  Казахстан
+                </a>
+              </li>
+              <li class="sitesmenu-region">
+                <a href="http://hh.ru/geo?site=jobs.day.az&amp;changeRegion=true" title="Азербайджан" rel="nofollow">
+                  Азербайджан
+                </a>
+              </li>
+            </noindex>
+            <li>
+              <iframe frameborder="0">
+              </iframe>
+            </li>
+          </ul>
+        </div>
+        <script type="text/javascript">
+          //<![CDATA[
+
+          (function(){
+            HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+            document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+            var c = document.getElementById('c' + HH.cid).previousSibling;
+            try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+              c.id = 'component_' + HH.cid;
+              HH.comps=HH.comps||[];HH.comps.push(c.id);
+            }catch(e){};
+          })();
+                
+          //]]>
+        </script>
+        <span class="headlogo">
+          <a href="/">
+            <img src="http://i.hh.ru/css/ambient/blocks/head/logo.png" alt="Работа" class="headlogo__img"/>
+          </a>
+        </span>
+      </div>
+      <div class="g-col2 i-headcontent__teaser">
+        <div class="g-hidden teaser banner-wrapper m-teaser_employer">
+          <script type="text/javascript">
+            //<![CDATA[
+            //<!--
+            if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=258&siteId=hh.ru&multy=false&uid=1351600396.721484943706044&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '258'); }; };
+            //-->
+            //]]>
+          </script>
+        </div>
+      </div>
+      <div class="g-col3 i-headcontent__teaser">
+        <div class="g-hidden teaser banner-wrapper m-teaser_employer">
+          <script type="text/javascript">
+            //<![CDATA[
+            //<!--
+            if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=hh.ru&multy=false&uid=1351600396.721484943706044&contentType=DIRECT_EMPLOYER&areas=1&gender=NO_MATTER&age=NO_MATTER&salary=NO_MATTER', '259'); }; };
+            //-->
+            //]]>
+          </script>
+        </div>
+      </div>
+      <div class="g-col4">
+      </div>
+    </div>
+    <div class="g-row m-row_menu">
+      <ul class="usermenu g-clearfix ">
+        <li class="item">
+          <a href="/logoff.do" class="menu__link">
+            Выйти
+          </a>
+        </li>
+        <li class="item">
+          <a href="/navigator" class="menu__link">
+            Помощь
+          </a>
+        </li>
+        <li class="item menu_livetex" onclick="return {types:['{HH}.LiveTex'], '{HH}.LiveTex':{'groupId': 7976, 'onlineClass': 'm-livetex_online'}}">
+          <div class="livetex__text m-livetex__text">
+            <span class="g-switcher m-switcher_green">
+              Техподдержка онлайн
+            </span>
+          </div>
+          <script type="text/javascript">
+            //<![CDATA[
+
+            (function(){
+              HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+              document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+              var c = document.getElementById('c' + HH.cid).parentNode;
+              try { c.id = 'component_' + HH.cid;
+                HH.comps=HH.comps||[];HH.comps.push(c.id);
+              }catch(e){};
+            })();
+                    
+            //]]>
+          </script>
+        </li>
+        <li class="item" onclick="
+                  return {
+                    types:['{jsxComponents}.ToggleBlock','{HH}.FirstPageFocusMover'],
+                    '{jsxComponents}.ToggleBlock':{
+                      closeByClick: true,
+                      focusOnOpen: true
+                    }
+                  }
+            ">
+          <span class="g-switcher m-switcher_777 jsxComponents-ToggleBlock-Switcher">
+            Настройка
+          </span>
+          <div class="g-expandable g-dropdown">
+            <div class="g-dropdown-title">
+              <span class="g-switcher m-switcher_777 jsxComponents-ToggleBlock-Switcher">
+                Настройка
+              </span>
+            </div>
+            <a href="/employer/settings" class="menu__link">
+              Личные данные
+            </a>
+            <br/>
+            <a href="/employer/settings/search-publication" class="menu__link">
+              Поиск и публикация
+            </a>
+            <br/>
+            <a href="/employer/vacancytemplates" class="menu__link">
+              Шаблоны вакансий
+            </a>
+            <br/>
+            <a href="/employer/settings/email" class="menu__link">
+              Тексты писем
+            </a>
+            <br/>
+            <a href="/employer/settings/subscription" class="menu__link">
+              Рассылки
+            </a>
+            <br/>
+            <iframe frameborder="0">
+            </iframe>
+          </div>
+          <script type="text/javascript">
+            //<![CDATA[
+
+            (function(){
+              HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+              document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+              var c = document.getElementById('c' + HH.cid).parentNode;
+              try { c.id = 'component_' + HH.cid;
+                HH.comps=HH.comps||[];HH.comps.push(c.id);
+              }catch(e){};
+            })();
+                    
+            //]]>
+          </script>
+        </li>
+        <li class="item" onclick="
+                  return {
+                    types:['{jsxComponents}.ToggleBlock','{HH}.FirstPageFocusMover'],
+                    '{jsxComponents}.ToggleBlock':{
+                      closeByClick: true,
+                      focusOnOpen: true
+                    }
+                  }
+            ">
+          <span class="g-switcher m-switcher_777 jsxComponents-ToggleBlock-Switcher">
+            Компания
+          </span>
+          <span class="new">
+            NEW
+          </span>
+          <div class="g-expandable g-dropdown">
+            <div class="g-dropdown-title">
+              <span class="g-switcher m-switcher_777 jsxComponents-ToggleBlock-Switcher">
+                Компания
+              </span>
+            </div>
+            <a href="/employer/edit" class="menu__link">
+              Описание
+            </a>
+            <span style="top: 0" class="new">
+              NEW
+            </span>
+            <br/>
+            <a href="/employer/addresses" class="menu__link">
+              Адрес офиса
+            </a>
+            <br/>
+            <a href="/employer/managers.do" class="menu__link">
+              Менеджеры вакансий
+            </a>
+            <br/>
+            <iframe frameborder="0">
+            </iframe>
+          </div>
+          <script type="text/javascript">
+            //<![CDATA[
+
+            (function(){
+              HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+              document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+              var c = document.getElementById('c' + HH.cid).parentNode;
+              try { c.id = 'component_' + HH.cid;
+                HH.comps=HH.comps||[];HH.comps.push(c.id);
+              }catch(e){};
+            })();
+                    
+            //]]>
+          </script>
+        </li>
+        <li class="item" onclick="
+                  return {
+                    types:['{jsxComponents}.ToggleBlock','{HH}.FirstPageFocusMover'],
+                    '{jsxComponents}.ToggleBlock':{
+                      closeByClick: true,
+                      focusOnOpen: true
+                    }
+                  }
+            ">
+          <span class="g-switcher m-switcher_777 jsxComponents-ToggleBlock-Switcher">
+            Cчет
+          </span>
+          <div class="g-expandable g-dropdown">
+            <div class="g-dropdown-title">
+              <span class="g-switcher m-switcher_777 jsxComponents-ToggleBlock-Switcher">
+                Cчет
+              </span>
+            </div>
+            <a href="/employer/account" class="menu__link">
+              Состояние и история
+            </a>
+            <br/>
+            <a href="/employer/payment" class="menu__link">
+              Выписать счет
+            </a>
+            <br/>
+            <a href="/employer/carts" class="menu__link">
+              Отложенные заказы
+            </a>
+            <br/>
+            <a href="/employer/agreements" class="menu__link">
+              Договор
+            </a>
+            <br/>
+            <a href="/employer/job-stats" class="menu__link">
+              Статистика работодателя
+            </a>
+            <br/>
+            <a href="/employer/statistics/summary.do?employerId=774702" class="menu__link">
+              Статистика
+            </a>
+            <br/>
+            <a href="/employer/deeds" class="menu__link">
+              Акты
+            </a>
+            <br/>
+            <iframe frameborder="0">
+            </iframe>
+          </div>
+          <script type="text/javascript">
+            //<![CDATA[
+
+            (function(){
+              HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+              document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+              var c = document.getElementById('c' + HH.cid).parentNode;
+              try { c.id = 'component_' + HH.cid;
+                HH.comps=HH.comps||[];HH.comps.push(c.id);
+              }catch(e){};
+            })();
+                    
+            //]]>
+          </script>
+        </li>
+        <li class="item">
+          <a href="/price" class="menu__link">
+            Купить услуги
+          </a>
+        </li>
+        <li class="item m-clientid">
+          (клиент 774702)
+        </li>
+        <li class="item m-item_username">
+          Юрий  Артамонов
+        </li>
+        <li class="item">
+           
+        </li>
+      </ul>
+      <ul class="menu m-menu_lvl1">
+        <li class="item m-item_search">
+          <form action="/resumesearch/result" method="get">
+            <input type="hidden" name="actionSearch" value="search"/>
+            <input type="hidden" name="areaId" value="113"/>
+            <input type="hidden" name="p.relocationSearch" value="true"/>
+            <input type="hidden" name="p.includeNoSalary" value="true"/>
+            <input type="hidden" name="p.includeNoAge" value="true"/>
+            <input type="search" name="keyword1" placeholder="Поиск резюме" title="Поиск резюме"/>
+             
+
+            <input type="submit" value="→"/>
+          </form>
+        </li>
+        <li class="item">
+          <a href="/employer/vacancies" class="menu__link">
+            Мои вакансии
+          </a>
+        </li>
+        <li class="item">
+          <a href="/employer/vacancy.do" class="menu__link">
+            Создать вакансию
+          </a>
+        </li>
+        <li class="item">
+          <a href="/resumesearch" class="menu__link">
+            Поиск резюме
+          </a>
+        </li>
+      </ul>
+      <ul class="menu m-menu_lvl2">
+        <li class="item assistant g-expand" onclick="
+                  return {
+                    types:[
+                      '{jsxComponents}.ToggleBlock'
+                      , '{HH}.EmployerAssistantCookie'
+                    ],
+                    '{jsxComponents}.ToggleBlock':{
+                      closeByClick: false
+                    }
+                  }
+            ">
+          <span class="m-menu-call g-button m-button_blue jsxComponents-ToggleBlock-Switcher">
+            Ваш персональный менеджер...
+          </span>
+          <div class="g-expandable g-dropdown">
+            <div class="s-assistant">
+              <div onclick="return {types:['{HH}.Popup']}" class="s-assistant__avatar">
+                <span class="Popup-Switcher">
+                  <img src="/file/9614014.jpg" alt=""/>
+                </span>
+                <div class="g-hidden b-popup b-assistant__popup Popup-Popup">
+                  <img src="/file/9614015.jpg" class="b-assistant__bigphoto" alt=""/>
+                </div>
+              </div>
+              <script type="text/javascript">
+                //<![CDATA[
+
+                (function(){
+                  HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                  document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                  var c = document.getElementById('c' + HH.cid).previousSibling;
+                  try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                  }catch(e){};
+                })();
+                
+                //]]>
+              </script>
+              <ul>
+                <li class="s-assistant__name">
+                  Дарья Садкова
+                </li>
+                <li>
+                  <span style="white-space: nowrap;">
+                    +7 (495) 974-64-27
+                  </span>
+                  , доб. 1-6127
+                </li>
+                <li>
+                  <a href="mailto:d.sadkova@hh.ru" class="b-assistant-email">
+                    d.sadkova@hh.ru
+                  </a>
+                </li>
+                <li class="b-assistant__icq" style="background: url(http://web.icq.com/whitepages/online?icq=626841790&amp;img=5) left bottom no-repeat;;">
+                  ICQ 626841790
+                </li>
+                <li class="b-callme " onclick="
+                                  return {
+                                    types: ['{HH}.CallMe'],
+                                    '{HH}.CallMe':{
+                                      today:'Сегодня',
+                                      tomorrow:'Завтра'
+                                    }
+                                  }
+                    ">
+                  <span class="b-callme-switcher HH-CallMe-Switcher">
+                    <span class="g-switcher b-callme-noCalls-text">
+                      Заказать звонок
+                    </span>
+                    <span class="g-switcher b-callme-hasCalls-text">
+                      Звонок заказан
+                    </span>
+                  </span>
+                  <script type="text/javascript">
+                    //<![CDATA[
+
+                    (function(){
+                      HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                      document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                      var c = document.getElementById('c' + HH.cid).parentNode;
+                      try { c.id = 'component_' + HH.cid;
+                        HH.comps=HH.comps||[];HH.comps.push(c.id);
+                      }catch(e){};
+                    })();
+                    
+                    //]]>
+                  </script>
+                </li>
+              </ul>
+            </div>
+            Ваш клиентский номер: 
+            <strong>
+              774702
+            </strong>
+            <div class="assistant_arrow">
+            </div>
+            <iframe frameborder="0">
+            </iframe>
+          </div>
+          <script type="text/javascript">
+            //<![CDATA[
+
+            (function(){
+              HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+              document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+              var c = document.getElementById('c' + HH.cid).parentNode;
+              try { c.id = 'component_' + HH.cid;
+                HH.comps=HH.comps||[];HH.comps.push(c.id);
+              }catch(e){};
+            })();
+                    
+            //]]>
+          </script>
+        </li>
+        <li class="item">
+          <a href="/employer/resumefolders" class="menu__link">
+            Отобранные
+          </a>
+        </li>
+        <li class="item">
+          <a href="/employer/savedSearches.do" class="menu__link">
+            Автопоиск
+            <span class="counter">
+              736682
+            </span>
+          </a>
+        </li>
+        <li class="item">
+          <a href="/employer/resumepicks.mvc" class="menu__link">
+            Выборки
+          </a>
+        </li>
+        <li class="item">
+          <a href="/employer/targetresumes.mvc" class="menu__link">
+            Хотят у нас работать
+          </a>
+        </li>
+        <li class="item">
+          <a href="/employer/tests" class="menu__link">
+            Вопросы и тесты
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="g-row">
+    </div>
+    <div class="g-row m-row_content">
+      <div class="g-row">
+        <div class="g-row">
+          <div class="g-paddings">
+            <div class="resume__print-settings noscreen" onclick="return {types: ['{HH}.Resume.Print'] }">
+              <label class="resume__comments-add-for">
+                <input type="checkbox" value="HH-Resume-Print-Comment"/>
+                С комментариями
+              </label>
+              <label class="resume__comments-add-for">
+                <input type="checkbox" value="HH-Resume-Print-Letter"/>
+                С сопроводительным письмом
+              </label>
+              <label class="resume__comments-add-for">
+                <input type="checkbox" value="HH-Resume-Print-Negotiation"/>
+                С историей откликов и приглашений
+              </label>
+              <span onclick="window.print(); return(false);" class="g-button m-button_green m-button_mid">
+                Распечатать
+              </span>
+            </div>
+            <script type="text/javascript">
+              //<![CDATA[
+
+              (function(){
+                HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                var c = document.getElementById('c' + HH.cid).previousSibling;
+                try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                  c.id = 'component_' + HH.cid;
+                  HH.comps=HH.comps||[];HH.comps.push(c.id);
+                }catch(e){};
+              })();
+                
+              //]]>
+            </script>
+            <div class="nopaddings topbuttons">
+              <div class="topbutton" style="z-index: 20" onclick="
+                              return {
+                                types:['{HH}.Employer.ResumeFolders', '{HH}.Employer.FoldersList.Select'],
+                                '{HH}.Employer.FoldersList.Select': {
+                                  'simhash': ''
+                                }
+                              }
+                   ">
+                <div class="g-hidden g-dropdown m-dropdown_arrow folders-select folders-select-star HH-Employer-FoldersList-Block">
+                  <ul class="folders-select__list HH-Employer-FoldersList-Folder-Container">
+                    <li class="folders-select__title HH-Employer-FoldersList-Own">
+                      Мои папки
+                    </li>
+                    <li data-hh-folder-id="2056330" class="b-favorite-folder HH-Employer-FoldersList-Folder-Container">
+                      <label class="HH-Employer-FoldersList-Folder">
+                        <input class="folders-select__checkbox HH-Employer-FoldersList-Input" type="checkbox" name="favoriteFolder" value="2056330"/>
+                        <span class="HH-Employer-FoldersList-Folder-Name">
+                          Favorite
+                        </span>
+                      </label>
+                    </li>
+                    <li data-hh-folder-id="3048157" class="b-favorite-folder HH-Employer-FoldersList-Folder-Container">
+                      <label class="HH-Employer-FoldersList-Folder">
+                        <input class="folders-select__checkbox HH-Employer-FoldersList-Input" type="checkbox" name="favoriteFolder" value="3048157"/>
+                        <span class="HH-Employer-FoldersList-Folder-Name">
+                          Favourites
+                        </span>
+                      </label>
+                    </li>
+                    <li data-hh-folder-id="3078593" class="b-favorite-folder HH-Employer-FoldersList-Folder-Container">
+                      <label class="HH-Employer-FoldersList-Folder">
+                        <input class="folders-select__checkbox HH-Employer-FoldersList-Input" type="checkbox" name="favoriteFolder" value="3078593"/>
+                        <span class="HH-Employer-FoldersList-Folder-Name">
+                          Web-дизайнер
+                        </span>
+                      </label>
+                    </li>
+                    <li>
+                      <input class="folders-select__checkbox HH-Employer-FoldersList-NewFolderInput" type="checkbox" name="favoriteFolder" value=""/>
+                      <span class="folders-select__new-folder" onclick="
+                                              return {
+                                                types:['{HH}.SmartInput'],
+                                                '{HH}.SmartInput': { example: { color: '#ccc', text: 'Новая папка' } }
+                                              }
+                            ">
+                        <input class="folders-select__folder-name HH-Employer-FoldersList-FolderNameInput HH-SmartInput-Input" type="text"/>
+                      </span>
+                      <script type="text/javascript">
+                        //<![CDATA[
+
+                        (function(){
+                          HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                          document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                          var c = document.getElementById('c' + HH.cid).previousSibling;
+                          try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                            c.id = 'component_' + HH.cid;
+                            HH.comps=HH.comps||[];HH.comps.push(c.id);
+                          }catch(e){};
+                        })();
+                
+                        //]]>
+                      </script>
+                    </li>
+                    <li class="folders-select__title HH-Employer-FoldersList-Shared">
+                      Общие папки
+                    </li>
+                    <li data-hh-folder-id="3128299" class="b-favorite-folder HH-Employer-FoldersList-Folder-Container">
+                      <label class="HH-Employer-FoldersList-Folder">
+                        <input class="folders-select__checkbox HH-Employer-FoldersList-Input" type="checkbox" name="favoriteFolder" value="3128299"/>
+                        <span class="HH-Employer-FoldersList-Folder-Name">
+                          Менеджер по продажам
+                        </span>
+                      </label>
+                    </li>
+                    <li class="g-hidden b-favorite-folder HH-Employer-FoldersList-Folder-Container HH-Employer-FoldersList-Folder-Container-Template">
+                      <label class="HH-Employer-FoldersList-Folder">
+                        <input class="folders-select__checkbox HH-Employer-FoldersList-Input" type="checkbox" name="favoriteFolder" value=""/>
+                        <span class="HH-Employer-FoldersList-Folder-Name">
+                           
+                        </span>
+                      </label>
+                    </li>
+                  </ul>
+                  <p class="folders-select-error g-hidden HH-Employer-FoldersList-Error">
+                    Не удалось сохранить изменения
+                  </p>
+                  <p class="folders-select-button">
+                    <input type="button" class="HH-Employer-FoldersList-Save" value="Сохранить"/>
+                    <span class="folders-select-spinner g-hidden HH-Employer-FoldersList-Spinner">
+                      Сохранение
+                    </span>
+                  </p>
+                </div>
+                <div class="HH-Employer-ResumeFolders-Resume">
+                  <div class="HH-Employer-ResumeFolders-Data folders-select_star" onclick="
+                                      return {
+                                        id:'2154659',
+                                        folders: []
+                                      }
+                       ">
+                    <div class="b-select-icon HH-Employer-ResumeFolders-Icon b-select-icon-star-off">
+                      <span class="g-switcher m-switcher_999 m-switcher_noborder b-select-icon-text-star-off">
+                        Добавить в отобранные
+                      </span>
+                      <span class="g-switcher m-switcher_999 m-switcher_noborder b-select-icon-text-star-on">
+                        В отобранных
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <script type="text/javascript">
+                //<![CDATA[
+
+                (function(){
+                  HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                  document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                  var c = document.getElementById('c' + HH.cid).previousSibling;
+                  try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                  }catch(e){};
+                })();
+                
+                //]]>
+              </script>
+              <!--noindex-->              <a href="/resume/002e4601020020e0a3000bd22e736563726574?print=true" class="topbutton m-switcher_999 m-switcher_noborder m-resume__print noprint" target="_blank">
+                Распечатать
+              </a>
+              <!--/noindex-->              <div class="topbutton noprint" onclick="return {types: ['{jsxComponents}.ToggleBlock'],'{jsxComponents}.ToggleBlock': {closeByClick:true}}">
+                <span class="g-switcher m-switcher_999 m-switcher_noborder jsxComponents-ToggleBlock-Switcher">
+                  Сохранить резюме
+                </span>
+                <div class="g-expandable g-dropdown">
+                  <div class="g-dropdown-title">
+                    <span class="g-switcher m-switcher_999 m-switcher_noborder jsxComponents-ToggleBlock-Switcher">
+                      Сохранить резюме
+                    </span>
+                  </div>
+                  <ul>
+                    <li class="saveas-item">
+                      <a href="/resume_converter/Феоктистова Екатерина Владимировна.doc?hash=002e4601020020e0a3000bd22e736563726574&amp;type=rtf">
+                        DOC
+                      </a>
+                      (MS Word)
+                    </li>
+                    <li class="saveas-item">
+                      <a href="/resume_converter/Феоктистова Екатерина Владимировна.pdf?hash=002e4601020020e0a3000bd22e736563726574&amp;type=pdf">
+                        PDF
+                      </a>
+                      (Adobe Reader)
+                    </li>
+                    <li class="saveas-item">
+                      <a href="/resume/print.do?id=002e4601020020e0a3000bd22e736563726574" target="_blank">
+                        TXT
+                      </a>
+                      (Notepad)
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <script type="text/javascript">
+                //<![CDATA[
+
+                (function(){
+                  HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                  document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                  var c = document.getElementById('c' + HH.cid).previousSibling;
+                  try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                  }catch(e){};
+                })();
+                
+                //]]>
+              </script>
+              <div class="plate noprint">
+                <a class="g-button m-button_green" href="/employer/negotiations/invite?r=2154659">
+                  Пригласить
+                </a>
+                <a href="/employer/mailToApplicant.do?resumeId=2154659" class="g-button m-button_grey">
+                  Написать письмо
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="g-hidden" onclick="
+                      return {
+                        'types' : ['{HH}.Employer.Folders'],
+                        '{HH}.Employer.Folders' : {
+                          'data' : {&quot;own&quot;: {&quot;2056330&quot;: {&quot;name&quot;: &quot;Favorite&quot;, &quot;id&quot;: 2056330}, &quot;3078593&quot;: {&quot;name&quot;: &quot;Web-\u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440&quot;, &quot;id&quot;: 3078593}, &quot;3048157&quot;: {&quot;name&quot;: &quot;Favourites&quot;, &quot;id&quot;: 3048157}}, &quot;shared&quot;: {&quot;3128299&quot;: {&quot;shared&quot;: true, &quot;name&quot;: &quot;\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u043c&quot;, &quot;id&quot;: 3128299}}, &quot;trash&quot;: {&quot;3048158&quot;: {&quot;name&quot;: &quot;\u0423\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435&quot;, &quot;id&quot;: 3048158}}, &quot;grid&quot;: {&quot;grid&quot;: {&quot;id&quot;: &quot;grid&quot;, &quot;name&quot;: null}}}
+                        }
+                      }
+               ">
+
+             
+
+          </div>
+          <script type="text/javascript">
+            //<![CDATA[
+
+            (function(){
+              HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+              document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+              var c = document.getElementById('c' + HH.cid).previousSibling;
+              try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                c.id = 'component_' + HH.cid;
+                HH.comps=HH.comps||[];HH.comps.push(c.id);
+              }catch(e){};
+            })();
+                
+            //]]>
+          </script>
+        </div>
+        <div class="g-row">
+          <div class="g-col1 m-colspan3">
+          </div>
+        </div>
+        <div class="g-row">
+          <div class="g-col1 m-colspan3 resume">
+            <div class="nopaddings resume__mainblock g-round m-round_5">
+              <div class="resume__mainblock__main m-resume__mainblock__main_noaside">
+                <div class="resume__personal">
+                  <div class="resume__personal__name">
+                    Феоктистова Екатерина Владимировна
+                  </div>
+                  <div class="resume__inlinelist">
+                    <span class="resume__inlinelist__item">
+                      <strong>
+                        43 года
+                      </strong>
+                      (29 июля 1969)
+                    </span>
+                    <span class="resume__inlinelist__item">
+                      <strong>
+                        Женский
+                      </strong>
+                      пол
+                    </span>
+                    <span class="resume__inlinelist__item">
+                      <strong>
+                        Москва
+                      </strong>
+                      , готова к переезду (Россия)
+                    </span>
+                    <span class="resume__inlinelist__item">
+                      Готова к командировкам
+                    </span>
+                  </div>
+                </div>
+                <div class="resume__contacts">
+                  <div>
+                    <div class="resume__contacts__preferred g-round m-round_10">
+                      <div class="resume__contacts__phone">
+                        <span class="resume__contacts__phone__number">
+
+                          +7 963 6348554
+                        </span>
+                        <span class="resume__contacts__preferred__hint">
+                          желаемый способ связи
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="resume__inlinelist">
+                    <span class="resume__inlinelist__item">
+                      <span>
+                        <span>
+                          <a href="mailto:katrin-f@yandex.ru">
+                            katrin-f@yandex.ru
+                          </a>
+                        </span>
+                      </span>
+                    </span>
+                  </div>
+                </div>
+                <span class="resume__updated">
+                  Резюме обновлено полтора часа назад
+                </span>
+              </div>
+            </div>
+            <div class="resume-block">
+              <div class="resume-block__title">
+                <div class="resume-block__title__text">
+                  <span>
+                    Желаемая должность и зарплата
+                  </span>
+                </div>
+              </div>
+              <div class="resume__position__title">
+                Руководитель службы делопроизводства и документооборота (документационное обеспечение управления)
+              </div>
+              <div class="resume__position__salary">
+                100 000 руб.
+              </div>
+              <div class="resume__position__specialization">
+                Административный персонал → Персональный ассистент, Делопроизводство, Архивист
+              </div>
+              Полная занятость,  Полный день
+            </div>
+            <div class="resume-block">
+              <div class="resume-block__title">
+                <div class="resume-block__title__text">
+                  <span>
+                    Опыт работы
+                  </span>
+                </div>
+              </div>
+              <div class="resume__experience">
+                <div class="resume__experience__item">
+                  <div>
+                    Сентябрь 2008 — 
+                    <span style="text-transform:lowercase">
+                      Июль
+                    </span>
+                    2012
+                  </div>
+                  <div>
+                    <strong>
+                      ОАО "НК "Роснефть"
+                    </strong>
+                    <span class="resume__experience__industry">
+                      — Добывающая отрасль/энергетика/ГСМ
+                    </span>
+                  </div>
+                  <div>
+                    <strong>
+                      И.о. заместителя директора Департамента делопроизводства и архива, начальник Управления контроля и методологии, руководитель Группы контроля, главный специалист службы по работе со входящими документами
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                                      return {types:['{HH}.Linkify']}
+                       ">
+                    •контроль исполнения поручений президента Компании, организация и контроль работы Группы контроля;
+                    <br xmlns=""/>
+                    •методическая работа по вопросам контроля прохождения документов и их исполнения;
+                    <br xmlns=""/>
+                    •подготовка периодической справочной информации о состоянии документооборота и исполнительской дисциплины компании;
+                    <br xmlns=""/>
+                    •анализ отчетов структурных подразделений по итогам работы (состояние исполнительской дисциплины, показатели премирования);
+                    <br xmlns=""/>
+                    •подготовка документов поступающих на доклад президенту Компании в полном объеме, включая внутренние документы;
+                    <br xmlns=""/>
+                    •предварительный просмотр документов, поступающих на имя президента компании, подготовка в необходимых случаях аннотаций по изложенным в документах вопросам для последующего доклада;
+                    <br xmlns=""/>
+                    •подготовка для доклада президенту компании, представляемых на подписание документов, осуществление проверки правильности изложения в них существа вопроса, полноты информации, соответствия оформления установленным требованиям;
+                    <br xmlns=""/>
+                    •организация и контроль работы Группы регистрации и учета документов;
+                    <br xmlns=""/>
+                    •организация и контроль работы Группы по работе с приказами и распоряжениями;
+                    <br xmlns=""/>
+                    •организация и контроль работы Группы методологии документооборота;
+                    <br xmlns=""/>
+                    •разработка и согласование функциональных требований для автоматизации документационного обеспечения управления, участие в выборе платформы для внедрения корпоративной системы электронного документооборота (руководитель проекта от бизнес-заказчика);
+                    <br xmlns=""/>
+                    •участие во внедрении технологии «потокового сканирования» входящих документов;
+                    <br xmlns=""/>
+                    •организация разработки локальных нормативных документов по документационному обеспечению управления.
+                  </div>
+                  <script type="text/javascript">
+                    //<![CDATA[
+
+                    (function(){
+                      HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                      document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                      var c = document.getElementById('c' + HH.cid).previousSibling;
+                      try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                        c.id = 'component_' + HH.cid;
+                        HH.comps=HH.comps||[];HH.comps.push(c.id);
+                      }catch(e){};
+                    })();
+                
+                    //]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Апрель 2008 — 
+                    <span style="text-transform:lowercase">
+                      Июль
+                    </span>
+                    2008
+                  </div>
+                  <div>
+                    <strong>
+                      Ювелирная Компания "Камея"
+                    </strong>
+                  </div>
+                  <div>
+                    <strong>
+                      Начальник Отдела развития
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                                      return {types:['{HH}.Linkify']}
+                       ">
+                    - координация процесса бизнес планирования;
+                    <br xmlns=""/>
+                    - планирование и ведение организационной и функциональной струкиуры;
+                    <br xmlns=""/>
+                    - описание бизнес-процессов;
+                    <br xmlns=""/>
+                    - внедрение проектного управление в компании;
+                    <br xmlns=""/>
+                    - внедрение системы менежмента качества (ISO 9000).
+                  </div>
+                  <script type="text/javascript">
+                    //<![CDATA[
+
+                    (function(){
+                      HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                      document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                      var c = document.getElementById('c' + HH.cid).previousSibling;
+                      try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                        c.id = 'component_' + HH.cid;
+                        HH.comps=HH.comps||[];HH.comps.push(c.id);
+                      }catch(e){};
+                    })();
+                
+                    //]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Июнь 2005 — 
+                    <span style="text-transform:lowercase">
+                      Февраль
+                    </span>
+                    2008
+                  </div>
+                  <div>
+                    <strong>
+                      ОАО "ОКБ Сухого"
+                    </strong>
+                  </div>
+                  <div>
+                    <strong>
+                      Начальник управления документационного обеспечения
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                                      return {types:['{HH}.Linkify']}
+                       ">
+                    •реализация проекта по реорганизации системы делопроизводства компании, включая разработку и внедрение корпоративных стандартов по документационному обеспечению управления;
+                    <br xmlns=""/>
+                    •определение функциональных требований для автоматизации документооборота (процессов регистрации, согласования и контроля исполнения) и создания электронного архива;
+                    <br xmlns=""/>
+                    •внедрение и эксплуатация системы электронного документооборота на платформе Documentum, как составной части информационной системы управления предприятием (совместно с ERP-системой Oracle e-Business Suite (OeBS));
+                    <br xmlns=""/>
+                    •оперативное руководство деятельностью канцелярии, архива компании;
+                    <br xmlns=""/>
+                    •методическое руководство и контроль организации делопроизводства в платформе Documentum как составной части информационной системы управления предприятием (совместно с ERP-системой Oracle e-Business Suite (OeBS));
+                    <br xmlns=""/>
+                    •определение функциональных требований и ведение корпоративного справочника «Контрагенты» в ERP-системе Oracle e-Business Suite (OeBS).
+                  </div>
+                  <script type="text/javascript">
+                    //<![CDATA[
+
+                    (function(){
+                      HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                      document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                      var c = document.getElementById('c' + HH.cid).previousSibling;
+                      try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                        c.id = 'component_' + HH.cid;
+                        HH.comps=HH.comps||[];HH.comps.push(c.id);
+                      }catch(e){};
+                    })();
+                
+                    //]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Июль 1999 — 
+                    <span style="text-transform:lowercase">
+                      Май
+                    </span>
+                    2005
+                  </div>
+                  <div>
+                    <strong>
+                      ОАО "ОКБ Сухого"
+                    </strong>
+                  </div>
+                  <div>
+                    <strong>
+                      Зам. начальника отдела организационного развития, Ведущий документовед
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                                      return {types:['{HH}.Linkify']}
+                       ">
+                    •разработка и ведение организационной структуры предприятия;
+                    <br xmlns=""/>
+                    •разработка предложений по изменению организационной структуры предприятия и функций подразделений предприятия, подготовка приказов по структурным и организационно-штатным изменениям;
+                    <br xmlns=""/>
+                    •разработка и совершенствование Положений о структурных подразделениях и должностных инструкций;
+                    <br xmlns=""/>
+                    •разработка организационно-функциональных моделей, создание решений в форме электронных моделей;
+                    <br xmlns=""/>
+                    •организация работ по описанию бизнес-процессов предприятия и разработка корпоративных стандартов управленческой деятельности, в том числе процедур анализа контракта, организации договорной работы с соисполнителями НИР и ОКР, поставщиками комплектующих изделий, управления кадрами;
+                    <br xmlns=""/>
+                    •проведение проверок структурных подразделений в рамках внутреннего аудита системы качества;
+                    <br xmlns=""/>
+                    •участие в проекте по внедрению ERP-системы Oracle e-Business Suite (OeBS) в роли эксперта по реинжинирингу бизнес-процессов (управление документооборотом, управление качеством, управление улучшениями и изменениями и др.);
+                    <br xmlns=""/>
+                    •участие в «пилотном» проекте по внедрению системы электронного документооборота LanDocs.•разработка процедур (регламентов) деятельности предприятия по документационному обеспечению управления, управлению кадрами, организации договорной работы с соиспослнителями НИР и ОКР;
+                    <br xmlns=""/>
+                    •разработка унифицированных форм документов предприятия; 
+                    <br xmlns=""/>
+                    участие в разработке и внедрении проектного управления в компании.
+                  </div>
+                  <script type="text/javascript">
+                    //<![CDATA[
+
+                    (function(){
+                      HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                      document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                      var c = document.getElementById('c' + HH.cid).previousSibling;
+                      try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                        c.id = 'component_' + HH.cid;
+                        HH.comps=HH.comps||[];HH.comps.push(c.id);
+                      }catch(e){};
+                    })();
+                
+                    //]]>
+                  </script>
+                </div>
+                <div class="resume__experience__item">
+                  <div>
+                    Сентябрь 1996 — 
+                    <span style="text-transform:lowercase">
+                      Июль
+                    </span>
+                    1999
+                  </div>
+                  <div>
+                    <strong>
+                      ОАО "ОКБ Сухого"
+                    </strong>
+                  </div>
+                  <div>
+                    <strong>
+                      Референт
+                    </strong>
+                  </div>
+                  <div class="resume__experience__desc" onclick="
+                                      return {types:['{HH}.Linkify']}
+                       ">
+                    документационное, информационное и организационно-техническое обеспечение работы приемной исполнительного директора, заместителей исполнительного директора.
+                  </div>
+                  <script type="text/javascript">
+                    //<![CDATA[
+
+                    (function(){
+                      HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                      document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                      var c = document.getElementById('c' + HH.cid).previousSibling;
+                      try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                        c.id = 'component_' + HH.cid;
+                        HH.comps=HH.comps||[];HH.comps.push(c.id);
+                      }catch(e){};
+                    })();
+                
+                    //]]>
+                  </script>
+                </div>
+              </div>
+              <div class="dotseparator" style="margin-right:-20px;margin-bottom:30px">
+                 
+              </div>
+              <table class="resume__twocols" style="margin-bottom:30px;">
+                <tbody>
+                  <tr>
+                    <td class="resume__twocols_cell">
+                      <div class="resume-block__title m-resume-block__title_sub">
+                        <div class="resume-block__title__text">
+                          <span>
+                            Ключевые навыки
+                          </span>
+                        </div>
+                      </div>
+                      <div onclick="
+                                              return {types:['{HH}.Linkify']}
+                           ">
+                        - опыт реализация проекта по реорганизации системы делопроизводства компании, включая разработку и внедрение корпоративных стандартов по документационному обеспечению управления;
+                        <br xmlns=""/>
+                        - опыт подготовки документов к докаду руководителю компании в поном объеме, вкючая внутренюю и внешнюю корреспонцию;
+                        <br xmlns=""/>
+                        - опыт оргнизции кнтроля испонения поручений руководства компании; 
+                        <br xmlns=""/>
+                        -знание российского законодательства и нормативно-методической базы в области делопроизводства, архивного дела и информатизации и опыт организации документооборота компании; 
+                        <br xmlns=""/>
+                        - знание международных требований к организации управления документами и системам электронного документооборота (ISO 15489, MoReq, ISAD(G) и др.);
+                        <br xmlns=""/>
+                        -знание платформы и опыт внедрения системы электронного документооборота на платформе Documentum;
+                        <br xmlns=""/>
+                        - знание и патформы и опыт работы в системе электронного документооборота на платформе Lotus Notus;
+                        <br xmlns=""/>
+                        - опыт работы с ERP-системой (Oracle e-Business Suite (OeBS));
+                        <br xmlns=""/>
+                        - уверенный пользователь ПК, Microsoft Office (Word, Visio, PowerPoint), ARIS,IDEF.
+                      </div>
+                      <script type="text/javascript">
+                        //<![CDATA[
+
+                        (function(){
+                          HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                          document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                          var c = document.getElementById('c' + HH.cid).previousSibling;
+                          try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                            c.id = 'component_' + HH.cid;
+                            HH.comps=HH.comps||[];HH.comps.push(c.id);
+                          }catch(e){};
+                        })();
+                
+                        //]]>
+                      </script>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="resume-block">
+              <div class="resume-block__title">
+                <div class="resume-block__title__text">
+                  <span>
+                    Образование
+                  </span>
+                </div>
+              </div>
+              <table style="margin-bottom:10px">
+                <tbody>
+                  <tr>
+                    <td style="padding-right:20px">
+                      1995
+                    </td>
+                    <td style="padding-bottom:10px">
+                      <div>
+                        Московский государственный университет культуры
+                      </div>
+                      <div class="resume__education__org">
+                        библиотекарь-библиограф, автоматизация библиотечных процессов
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding-right:20px">
+                      2003
+                    </td>
+                    <td style="padding-bottom:10px">
+                      <div>
+                        Московский государственный университет права
+                      </div>
+                      <div class="resume__education__org">
+                        юрист, правовед-консультант
+                      </div>
+                    </td>
+                  </tr>                                  
+                </tbody>
+              </table>
+              <div class="resume-block">
+                <div class="resume-block__title m-resume-block__title_sub">
+                  <div class="resume-block__title__text">
+                    <span>
+                      Знание языков
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  Русский — родной
+                </div>
+                <div>
+                  Английский — базовые знания
+                </div>
+              </div>
+              <table class="resume__twocols">
+                <tbody>
+                  <tr>
+                    <td class="resume__twocols_cell">
+                      <div class="resume-block__title m-resume-block__title_sub">
+                        <div class="resume-block__title__text">
+                          <span>
+                            Повышение квалификации, курсы
+                          </span>
+                        </div>
+                      </div>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2006
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                функциональные и технологические семинары по функционалу платформы Dokumentum
+                              </div>
+                              <div class="resume__education__org">
+                                Документум Сервиз Раша, Сертификат
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2002
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Менеджмент системы качества оборонных предприятий с присвоением квалификации эксперт-аудитор по системе качества
+                              </div>
+                              <div class="resume__education__org">
+                                УЦ ИИиВВТ, Сертификат
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2001
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Анализ бизнес-процессов (методология функционально-стоимосного анализа, IDEF, ARIS
+                              </div>
+                              <div class="resume__education__org">
+                                ВИП Anatex, Сертификат
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td style="padding-right:20px">
+                              2001
+                            </td>
+                            <td style="padding-bottom:10px">
+                              <div>
+                                Современное делопроизводство и архив предприятия
+                              </div>
+                              <div class="resume__education__org">
+                                Центральный дом знаний, Сертификат
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="resume-block__title">
+              <div class="resume-block__title__text">
+                <span>
+                  Гражданство, время в пути до работы
+                </span>
+              </div>
+            </div>
+            <div>
+              <div class="resume__additional-item">
+                Гражданство: Россия
+              </div>
+              <div class="resume__additional-item">
+                Разрешение на работу: Россия
+              </div>
+              <div class="resume__additional-item">
+                Почтовый адрес: 123060, г. Москва, ул. маршала Вершинина 3/1-130 
+              </div>
+              <div class="resume__additional-item">
+                Желательное время в пути до работы: 
+                <span style="text-transform:lowercase">
+                  Не имеет значения
+                </span>
+              </div>
+            </div>
+            <div class="plate noprint">
+              <a class="g-button m-button_green" href="/employer/negotiations/invite?r=2154659">
+                Пригласить
+              </a>
+              <a href="/employer/mailToApplicant.do?resumeId=2154659" class="g-button m-button_grey">
+                Написать письмо
+              </a>
+            </div>
+            <div class="resume__related resume-block noprint">
+              <div class="HH-Related-Resumes" onclick="
+                              return { 
+                                types: ['{HH}.Related.Resumes'], 
+                                '{HH}.Related.Resumes' : {
+                                  resumeId: '2154659' 
+                                } 
+                              }
+                   ">
+
+                 
+
+              </div>
+              <script type="text/javascript">
+                //<![CDATA[
+
+                (function(){
+                  HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                  document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                  var c = document.getElemLocationentById('c' + HH.cid).previousSibling;
+                  try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                    c.id = 'component_' + HH.cid;
+                    HH.comps=HH.comps||[];HH.comps.push(c.id);
+                  }catch(e){};
+                })();
+                
+                //]]>
+              </script>
+            </div>
+          </div>
+          <div class="g-col4 resume_side">
+            <div class="HH-Resume-Print-Comment resume__aside_comments" onclick="
+                          return {types:['{HH}.Resume.Comments.Add', '{HH}.Resume.Comments.List'],
+                            '{HH}.Resume.Comments.Add':{'applicantId' : 1376568, 'forceRedraw':true, 'focusOnOpen': true},
+                            '{HH}.Resume.Comments.List':{
+                              'applicantId' : 1376568,
+                              'show' : 3,
+                              'trl' : {
+                                'show_more' : 'Все',
+                                'show_last' : 'Свернуть',
+                                'show_full' : 'Раскрыть',
+                                'show_less' : 'Свернуть',
+                                'visibleToMe' : 'виден только мне',
+                                'my' : 'Я ({0})',
+                                'comments' : ['комментарий', 'комментария', 'комментариев']
+                              }
+                            }}
+                 ">
+              <div class="resume__aside-title">
+                Комментарии к резюме
+              </div>
+              <div class="resume__aside-box HH-Resume-Comments-List-Container">
+                <div class="HH-Resume-Comments-Add resume__aside_comments-form">
+                  <span class="link-greenplus resume__comments-addtitle jsxComponents-ToggleBlock-Switcher">
+                    Добавить комментарий
+                  </span>
+                  <div class="g-expandable resume__comments-add">
+                    <form>
+                      <textarea class="HH-Resume-Comments-Add-Textarea jsxComponents-ToggleBlock-focusOnOpen" rows="" cols="" name="comment"></textarea>                      <label class="resume__comments-add-for">
+                        <input type="radio" name="accessType" value="1" checked="checked" class="HH-Resume-Comments-List-AT-Coworkers"/>
+                        Виден всем сотрудникам моей компании
+                      </label>
+                      <label class="resume__comments-add-for">
+                        <input type="radio" name="accessType" value="0" class="HH-Resume-Comments-List-AT-Owner"/>
+                        Виден только мне
+                      </label>
+                      <input type="button" class="HH-Resume-Comments-Add-Button" value="Добавить" style="margin: 10px 0;"/>
+
+                       
+
+                      <span class="g-switcher m-switcher_999 jsxComponents-ToggleBlock-Switcher">
+                        Отмена
+                      </span>
+                    </form>
+                  </div>
+                </div>
+                <ul>
+                  <li class="HH-Resume-Comments-List-Template-Editable resume__comment HH-ResumeComments-Comment g-expand g-hidden">
+                    <div class="g-expandable">
+                      <span class="HH-Resume-Comments-List-Text resume__comment-text">
+                         
+                      </span>
+                      <span class="g-switcher m-switcher_000 resume__comment-text-all g-hidden HH-Resume-Comments-List-ShowAll">
+                         
+                      </span>
+                      <div class="resume__comment-info">
+                        <span class="HH-Resume-Comments-List-User">
+                           
+                        </span>
+                          
+                        <span class="HH-Resume-Comments-List-Date">
+                           
+                        </span>
+                        <span class="HH-Resume-Comments-List-Visible resume__comment-visibility">
+                           
+                        </span>
+                        <span class="HH-Resume-Comments-List-Text-Edit resume__comment-editable-edit">
+                          Изменить
+                        </span>
+                      </div>
+                    </div>
+                    <div class="g-expandable-reverse resume__comments-add">
+                      <div class="resume__comments-add-title">
+                        <strong>
+                          Редактирование
+                        </strong>
+                        <span class="g-switcher m-switcher_red resume__comment-delete HH-Resume-Comments-List-Delete">
+                          Удалить
+                        </span>
+                      </div>
+                      <form>
+                        <textarea class="b-forma-textarea HH-Resume-Comments-List-Textarea" rows="" cols="" name="comment">                                     
+                        </textarea>                        <label class="resume__comments-add-for">
+                          <input type="radio" name="accessType" value="1" checked="checked" class="HH-Resume-Comments-List-AT-Coworkers"/>
+                          Виден всем сотрудникам моей компании
+                        </label>
+                        <label class="resume__comments-add-for">
+                          <input type="radio" name="accessType" value="0" class="HH-Resume-Comments-List-AT-Owner"/>
+                          Виден только мне
+                        </label>
+                        <input type="button" value="Сохранить" class="HH-Resume-Comments-List-Button" style="margin: 10px 4px 10px 0;"/>
+
+                         
+
+                        <span class="g-switcher m-switcher_999 HH-Resume-Comments-List-Cancel">
+                          Отмена
+                        </span>
+                      </form>
+                    </div>
+                  </li>
+                  <li class="HH-Resume-Comments-List-Template resume__comment HH-ResumeComments-Comment g-hidden">
+                    <span class="HH-Resume-Comments-List-Text resume__comment-text">
+                       
+                    </span>
+                    <span class="g-switcher m-switcher_000 resume__comment-text-all g-hidden HH-Resume-Comments-List-ShowAll">
+                       
+                    </span>
+                    <div class="resume__comment-info">
+                      <span class="HH-Resume-Comments-List-User">
+                         
+                      </span>
+                        
+                      <span class="HH-Resume-Comments-List-Date">
+                         
+                      </span>
+                        
+                      <span class="HH-Resume-Comments-List-Visible">
+                         
+                      </span>
+                    </div>
+                  </li>
+                </ul>
+                <div class="HH-Resume-Comments-List-More resume__comments-more g-hidden">
+                  <span class="g-switcher m-switcher_999 HH-Resume-Comments-List-More-Text">
+                     
+                  </span>
+                </div>
+              </div>
+            </div>
+            <script type="text/javascript">
+              //<![CDATA[
+
+              (function(){
+                HH=window.HH||{};HH.cid=HH.cid?HH.cid+1:1;
+                document.write('<script id="c' + HH.cid + '"> </scr'+'i'+'pt>');
+                var c = document.getElementById('c' + HH.cid).previousSibling;
+                try { while (c.nodeType != 1 || c.tagName.toLowerCase() == 'script') c = c.previousSibling;
+                  c.id = 'component_' + HH.cid;
+                  HH.comps=HH.comps||[];HH.comps.push(c.id);
+                }catch(e){};
+              })();
+                
+              //]]>
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="g-row m-row_foot">
+      <div class="g-col1">
+        <div class="copyright">
+          © Группа компаний «HeadHunter», 2000 — 2012
+        </div>
+        <div class="lang">
+          <a href="/locale.do?language=EN">
+            In English
+          </a>
+        </div>
+        <script>
+          //<![CDATA[
+
+          (function(){
+            if (!HH || !HH.comps || !jsx) return;
+            jsx.require(['Components'], function(){
+              HH.compInitStart = (+new Date());
+              var id;
+              while (id = HH.comps.shift()) jsx.Components.createComponents([document.getElementById(id)], true);
+            });
+          })();
+          if (window.addEventListener) {
+            window.addEventListener('load', function(){
+              try {
+                var timing = window.performance.timing,
+                times = {
+                  firstByte : timing.responseStart,
+                  LastByte : timing.responseEnd,
+                  startDomParse : timing.domLoading,
+                  finishDomParse : timing.domInteractive,
+                  deferredDone : timing.domContentLoadedEventStart,
+                  domContentLoaded : timing.domContentLoadedEventEnd,
+                  onLoad : timing.domComplete,
+                  compInitStart: HH.compInitStart,
+                  compInitEnd: HH.compInitEnd
+                };
+                (new Image()).src = '/stat?p=' + encodeURI(location.pathname) +
+                  ',' + Object.keys(times).map(function(i){
+                  if (!times[i]) return '';
+                  return i+':'+(times[i]-=timing.fetchStart)
+                }).filter(function(i){return i}).join(',');
+              } catch(e){}
+            }, false)
+          }
+        
+          //]]>
+        </script>
+        <script>
+          //<![CDATA[
+
+          var liveTexID = 15998,
+          liveTexHHGroups = [7975, 7976];
+            
+          var liveTex = true,
+          liveTex_object = true,
+          hh_liveTex_callback = function(){
+            jsx.require(['CallBacks'], function(){
+              jsx.CallBacks.need(['{HH}.LiveTex'], function(){
+                jsx.CallBacks.dispatch('HH-LiveTex-Loaded');
+              }, HH);
+            });
+          };
+          (function(groups) {
+            var lt = document.createElement('script');
+            lt.type ='text/javascript';
+            lt.async = true;
+            lt.src = 'http://cs15.livetex.ru/js/client_hh_stable.js';
+            var sc = document.getElementsByTagName('script')[0];
+            if ( sc ) sc.parentNode.insertBefore(lt, sc);
+            else document.documentElement.firstChild.appendChild(lt);
+            window.liveTexHHGroups = groups;
+          })(liveTexHHGroups);
+        
+          //]]>
+        </script>
+        <br/>
+        <script>
+          //<![CDATA[
+          document.write("<a href='http://www.liveinternet.ru/click;HH_Center' target=_blank><img src='//counter.yadro.ru/hit;HH_Center?t14.1;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random()+"' title='LiveInternet: показано число просмотров и посетителей за 24 часа' border='0' width='0' height='0' style='position:absolute'></a>")
+          //]]>
+        </script>
+        <script>
+          //<![CDATA[
+          var _gaq=_gaq||[];_gaq.push(['reg._setAccount','UA-11659974-24'],['reg._addOrganic','rambler.ru','words'],['reg._addOrganic','nova.rambler.ru','query'],['reg._addOrganic','mail.ru','q'],['reg._addOrganic','nigma.ru','s'],['reg._addOrganic','search.livetool.ru','text',true],['reg._addOrganic','search.qip.ru','query'],['reg._trackPageview'],['main._setAccount','UA-11659974-2'],['main._addOrganic','rambler.ru','words'],['main._addOrganic','nova.rambler.ru','query'],['main._addOrganic','mail.ru','q'],['main._addOrganic','nigma.ru','s'],['main._addOrganic','search.livetool.ru','text',true],['main._addOrganic','search.qip.ru','query'],['main._trackPageview']);
+          (function(){var ga=document.createElement('script');ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
+          //]]>
+        </script>
+        <script src="http://sedu.adhands.ru/js/counter.js" async="async" onload="(function() {var r=new adhandsReport('http://sedu.adhands.ru/site/');r.id('675');r.send()})()">
+        </script>
+        <noscript>
+          <img width="1" height="1" src="http://sedu.adhands.ru/site/?static=on&amp;clid=675&amp;rnd=1234567890123" style="display:none;"/>
+        </noscript>
+        <script>
+          //<![CDATA[
+          (function(){var d=document, s=screen, a=';r='+escape(d.referrer)+';j='+navigator.javaEnabled()+';s='+s.width+'*'+s.height+';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);d.write('<a href="http://top.mail.ru/jump?from=310372" target="_top"><img src="http://dc.cb.b4.a0.top.mail.ru/counter?id=310372;t=49;js=13'+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" height="31" width="88"></a>')})()
+          //]]>
+        </script>
+        <noscript>
+          <a target="_top" href="http://top.mail.ru/jump?from=310372">
+            <img src="http://dc.cb.b4.a0.top.mail.ru/counter?js=na;id=310372;t=49" height="31" width="88" border="0" alt="Рейтинг@Mail.ru"/>
+          </a>
+        </noscript>
+        <script id="top100Counter" src="http://counter.rambler.ru/top100.jcn?644963">
+        </script>
+        <noscript>
+          <img src="http://counter.rambler.ru/top100.cnt?644963" width="1" height="1" border="0"/>
+        </noscript>
+        <a href="http://top100.rambler.ru/navi/644963/">
+          <img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width="88" height="31" border="0"/>
+        </a>
+        <script>
+          //<![CDATA[
+          (function(){var i=new Image();i.src='http://www.tns-counter.ru/V13a***R>'+document.referrer.replace(/\*/g,'%2a')+'*hh_ru/ru/UTF-8/tmsec=hh_total/';})()
+          //]]>
+        </script>
+        <noscript>
+          <img src="http://www.tns-counter.ru/V13a****hh_ru/ru/UTF-8/tmsec=hh_total/" width="1" height="1"/>
+        </noscript>
+        <script>
+          //<![CDATA[
+          new Image().src = "//counter.yadro.ru/hit;HeadHunter?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random();
+          //]]>
+        </script>
+        <a href="http://metrika.yandex.ru/stat/?id=156828&amp;from=informer" target="_blank" rel="nofollow">
+          <img src="//bs.yandex.ru/informer/156828/3_0_FFFFFFFF_FFFFFFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)"/>
+        </a>
+        <div style="display:none;">
+          <script>
+            //<![CDATA[
+            (function(w,c){(w[c]=w[c]||[]).push(function(){try{w.yaCounter156828=new Ya.Metrika({id:156828,enableAll:true,params:window.yaParams||{}});}catch(e){}});})(window, "yandex_metrika_callbacks");
+            //]]>
+          </script>
+        </div>
+        <script src="//mc.yandex.ru/metrika/watch_visor.js" type="text/javascript" defer="defer">
+        </script>
+        <noscript>
+          <div>
+            <img src="//mc.yandex.ru/watch/156828" style="position:absolute; left:-9999px;"/>
+          </div>
+        </noscript>
+        <a href="http://www.liveinternet.ru/click;HeadHunter" target="_blank">
+          <img src="//counter.yadro.ru/logo;HeadHunter?14.1" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" border="0" width="88" height="31"/>
+        </a>
+
+         
+
+      </div>
+      <!--noindex-->      <ul class="g-col2">
+        <li class="footlink">
+          <a href="/article.do?articleId=28">
+            О HeadHunter
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="http://corp.mail.ru/">
+            О Mail.ru Group
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/employer/1455">
+            Наши вакансии
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/feedback.mvc">
+            Пишите нам
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/poll">
+            Оцените нас
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/399">
+            Партнёры
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/30">
+            Исследования
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/176">
+            Требования к ПО
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/safety" class="footlink__positive">
+            Безопасный HeadHunter
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/8" class="footlink__negative">
+            Реклама на сайте
+          </a>
+        </li>
+      </ul>
+      <ul class="g-col3">
+        <li class="footlink">
+          <a href="/article/2067">
+            Работодателям
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/employer/vacancy-promo/">
+            Публикация вакансий
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/demo">
+            Прайс-лист
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/112">
+            Производственный календарь
+          </a>
+        </li>
+      </ul>
+      <ul class="g-col4">
+        <li class="footlink">
+          <a href="/article/2">
+            Соискателям
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/applicant/package.mvc">
+            Продвижение резюме
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/1150">
+            Работа в других городах
+          </a>
+        </li>
+        <li class="footlink">
+          <a href="/article/1365">
+            Защита персональных данных
+          </a>
+        </li>
+        <li class="footlink m-footlink_rss">
+          <a href="/rss">
+            RSS
+          </a>
+        </li>
+      </ul>
+      <!--/noindex-->    </div>
+    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      //<![CDATA[
+      var HH=HH||{};HH.getBanners()
+      //]]>
+    </script>
+  </body>
+</html>

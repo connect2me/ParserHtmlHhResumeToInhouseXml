@@ -29,7 +29,7 @@ public abstract class Module {
     // Включение Saxon парсера
     System.setProperty("javax.xml.transform.TransformerFactory", "net.sf.saxon.TransformerFactoryImpl");    
     // Включение spring контекста
-    GenericXmlApplicationContext ctx = new GenericXmlApplicationContext();
+    ctx = new GenericXmlApplicationContext();
     ctx.load("classpath:spring.xml");
     ctx.refresh();    
   }

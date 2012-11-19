@@ -27,8 +27,14 @@
     <maven.test.failure.ignore>true</maven.test.failure.ignore>
     <spring.framework.version>3.1.0.RELEASE</spring.framework.version>
   </properties>
-
   <dependencies>
+    <!-- Здесь есть реализация коллекции Bag -->
+    <dependency>
+      <groupId>commons-collections</groupId>
+      <artifactId>commons-collections</artifactId>
+      <version>3.0</version>
+    </dependency>
+    <!-- -->            
     <dependency>
       <groupId>net.sf.saxon</groupId>
       <artifactId>Saxon-HE</artifactId>
@@ -61,6 +67,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
       <version>${spring.framework.version}</version>
+    </dependency>
+    <!-- Библиотечка для захвата страничек из инета и преобразования их в xml -->
+    <dependency>
+      <groupId>net.sourceforge.htmlunit</groupId>
+      <artifactId>htmlunit</artifactId>
+      <version>2.4</version>
     </dependency>
   </dependencies>
 </project>

@@ -20,11 +20,7 @@ public class Worker extends Module implements Command {
   @Override
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException {
     Check check = ctx.getBean("check", Check.class);
-    if (check.isWellFormed("<?xml version=\"1.0\" encoding=\"UTF-8\"?><root><p>Hello World!</p></root>")) {
-      System.out.println("XML is well formed!");
-    } else {
-      System.out.println("XML is not well formed!");
-    }
+
 
     return "Hello World!";
   }
