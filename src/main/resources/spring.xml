@@ -4,5 +4,5 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
                           http://www.springframework.org/schema/beans/spring-beans-3.1.xsd">
   <!-- oracle bean used for a few examples -->
-  <bean id="check" name="check" class="ru."/>
+  <bean id="check" name="check" class="ru.connect2me.util.hh.helper.Check"/>
 </beans>
