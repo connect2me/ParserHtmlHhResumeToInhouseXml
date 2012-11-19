@@ -22,8 +22,9 @@ public class Check {
     boolean response = true;
     try {
       DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-      factory.setValidating(false);
-      factory.setNamespaceAware(true);
+      factory.setFeature("http://apache.org/xml/features/nonvalidating/load-external-dtd", false);
+      //factory.setValidating(false);
+      //factory.setNamespaceAware(true);
       DocumentBuilder builder = factory.newDocumentBuilder();
       builder.setErrorHandler(new SimpleErrorHandler());
       Document document = builder.parse(inXml);
