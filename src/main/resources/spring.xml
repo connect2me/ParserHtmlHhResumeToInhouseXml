@@ -12,4 +12,11 @@
   <bean id="getBirthdate" class="ru.connect2me.util.hh.helper.Birthdate"/>
   <bean id="getAddress" class="ru.connect2me.util.hh.helper.Address"/>
   <bean id="getRelocation" class="ru.connect2me.util.hh.helper.Relocation"/>
+  <bean id="getSalary" class="ru.connect2me.util.hh.helper.Salary"/>
+  <bean id="getDirection" class="ru.connect2me.util.hh.helper.Direction"/>
+  <bean id="getEducation" class="ru.connect2me.util.hh.helper.Education"/>
+  <bean id="getExperience" class="ru.connect2me.util.hh.helper.Experience"/>    
+  
+  
+  
 </beans>

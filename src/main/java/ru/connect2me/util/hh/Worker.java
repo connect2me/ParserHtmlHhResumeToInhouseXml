@@ -33,6 +33,10 @@ public class Worker extends Module implements Command {
     String address = ctx.getBean("getAddress", Address.class).get(html);       // 6. Получение почтового адреса из резюме  
     String birthdate = ctx.getBean("getBirthdate", Birthdate.class).get(html); // 7. Получение дня рождения из резюме
     String relocation = ctx.getBean("getRelocation", Relocation.class).get(html); // 8. Получение готовности переехать из резюме
+    String salary = ctx.getBean("getSalary", Salary.class).get(html);             // 9. Получение желаемой зарплаты
+    String direction = ctx.getBean("getDirection", Direction.class).get(html);   // 10. Получение желаемой специализации по которой апликант ищет работу
+    String education = ctx.getBean("getEducation", Education.class).get(html);   // 11. Получение списка полученных образований аппликанта
+    String experience = ctx.getBean("getExperience", Experience.class).get(html);// 12. Получение списка полученных образований аппликанта
     
 
     return "Hello World!";
