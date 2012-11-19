@@ -1,3 +1,1 @@
-INFO  2012-11-19 14:59:13,837 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring.xml]
-INFO  2012-11-19 14:59:13,896 [AbstractApplicationContext] - Refreshing org.springframework.context.support.GenericXmlApplicationContext@485b0752: startup date [Mon Nov 19 14:59:13 MSK 2012]; root of context hierarchy
-INFO  2012-11-19 14:59:13,897 [DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@701c2ed7: defining beans [check]; root of factory hierarchy
+INFO  2012-11-19 16:09:04,603 [XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring.xml]
