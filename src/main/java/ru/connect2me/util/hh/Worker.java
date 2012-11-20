@@ -22,7 +22,7 @@ import ru.connect2me.util.hh.helper.*;
  */
 public class Worker extends Module implements Command {
   public Worker() throws ParserHtmlHhResumeToInhouseXmlException {
-    super(new XMLConfiguration(Main.class.getResourceAsStream("/config.xml")));
+    super(new XMLConfiguration(Worker.class.getResourceAsStream("/config.xml")));
   }
 
   @Override
@@ -36,7 +36,7 @@ public class Worker extends Module implements Command {
     if (!check.isWellFormed(html)) {
       throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл не является xml well-formed!");
     }
-    // Чистка входного текста &apos;
+    // Чистка входного текста &apos; -> ' &#xD; -> <br/>
     html = html.replaceAll("&apos;", "'");
     // Парсинг входного текста
     Properties props = parse(html);

@@ -18,7 +18,7 @@ import org.apache.commons.io.FileUtils;
  *
  * @author Зайнуллин Радик
  */
-public class SampleUtil {
+public class UtilMakeInputSample {
 
   private static WebClient webClient;
 
@@ -49,7 +49,7 @@ public class SampleUtil {
       HtmlPage page1 = webClient.getPage("http://hh.ru/resume/" + s);
       String xml = page1.asXml();
 
-      URL url = SampleUtil.class.getResource("/test/input/newSample.txt");
+      URL url = UtilMakeInputSample.class.getResource("/test/input/newSample.txt");
       File file = new File(url.toURI().getPath());
       FileUtils.writeStringToFile(file, xml, "UTF-8");
 

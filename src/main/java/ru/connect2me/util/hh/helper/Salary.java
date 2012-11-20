@@ -16,6 +16,6 @@ public class Salary {
     if (matcher.find()) {
       salary = matcher.group(1);
     }
-    return salary;
+    return salary.trim();
   }  
 }

@@ -17,6 +17,6 @@ public class Direction {
     if (matcher.find()) {
       direction = matcher.group(1);
     }
-    return direction.trim();
+    return direction.trim().replaceAll("\r", "").replaceAll("\n", "").replaceAll("\r\n", "").replaceAll("\\s+", " ").replaceAll("\\s*$", "");
   }  
 }
