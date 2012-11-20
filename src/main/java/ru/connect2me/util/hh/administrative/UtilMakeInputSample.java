@@ -19,9 +19,6 @@ import org.apache.commons.io.FileUtils;
  * @author Зайнуллин Радик
  */
 public class UtilMakeInputSample {
-
-  private static WebClient webClient;
-
   public static void main(String[] args) {
     WebClient webClient = new WebClient();
     webClient.setJavaScriptEnabled(false);

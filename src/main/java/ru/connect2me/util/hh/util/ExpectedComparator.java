@@ -4,11 +4,21 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathConstants;
+import javax.xml.xpath.XPathExpressionException;
+import javax.xml.xpath.XPathFactory;
 import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
 import org.xml.sax.ErrorHandler;
 import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
@@ -29,14 +39,29 @@ public class ExpectedComparator implements Comparator<String>{
     Document expectedDoc = getDocFromStr(expected); 
     Document realDoc = getDocFromStr(real); 
     // Формируем список параметров по которым будет производится сравнение
-    String[] arr = new String[]{"id"};
-    // 
-    for (String parameter: arr){
-      if (!extract(expectedDoc, parameter).equals(extract(realDoc, parameter))) return -1;
+    Map map = new HashMap();
+    map.put("id", "/resume/id");
+    
+    for (Iterator iterator = map.keySet().iterator(); iterator.hasNext();) {
+      String path = (String) map.get( iterator.next());
+      if (!extract(expectedDoc, path).equals(extract(realDoc, path))) return -1;
     }
+
     return 0;
   }
- 
+  private String extract(Document doc, String path) {
+    String result = null;
+    XPath xpath = XPathFactory.newInstance().newXPath();
+    try {  
+      NodeList nodes = (NodeList) xpath.evaluate(path, doc, XPathConstants.NODESET);
+      result = nodes.item(0).getTextContent();
+    } catch (XPathExpressionException ex) {
+      System.out.println("Не работает вытаскивание из документа данных по xpath.");
+    }
+    
+    return result;
+  }
+  
   public Document getDocFromStr(String inXml) {
     Document document = null;
     try {
@@ -54,10 +79,6 @@ public class ExpectedComparator implements Comparator<String>{
       System.out.println("Не могу сформировать org.w3c.dom.Document из входной строки.");
     }
     return document;
-  }
-
-  private String extract(Document doc, String par) {
-    return "";
   }
 
   private class SimpleErrorHandler implements ErrorHandler {

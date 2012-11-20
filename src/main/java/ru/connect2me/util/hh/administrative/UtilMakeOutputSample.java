@@ -21,7 +21,7 @@ import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
 public class UtilMakeOutputSample {
 
   public static void main(String[] args) throws ParserHtmlHhResumeToInhouseXmlException {
-    InputStream is = UtilMakeOutputSample.class.getResourceAsStream("/test/input/sample001.txt");
+    InputStream is = UtilMakeOutputSample.class.getResourceAsStream("/test/input/sample004.txt");
     StringWriter writer = new StringWriter();
     try {
       IOUtils.copy(is, writer, "UTF-8");
