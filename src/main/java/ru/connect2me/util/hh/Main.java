@@ -15,7 +15,7 @@ import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
  */
 public class Main {
   public static void main(String[] args) throws ParserHtmlHhResumeToInhouseXmlException {
-    InputStream is = Main.class.getResourceAsStream("/test/input/sample001.txt");
+    InputStream is = Main.class.getResourceAsStream("/test/input/sample003.txt");
     StringWriter writer = new StringWriter();
     try {
       IOUtils.copy(is, writer, "UTF-8");
@@ -23,6 +23,7 @@ public class Main {
       System.out.println("Не могу прочесть тестовый sample файл.");
     }
     
-    new Worker().execute(writer.toString());
+    String result = new Worker().execute(writer.toString());
+    System.out.println(result);
   }
 }

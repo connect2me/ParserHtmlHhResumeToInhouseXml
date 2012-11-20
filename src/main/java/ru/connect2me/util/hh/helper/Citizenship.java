@@ -1,13 +1,19 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package ru.connect2me.util.hh.helper;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
+
 /**
- *
- * @author r.zaynullin
+ *  Получение гражданства
+ * 
+ * @author Зайнуллин Радик
  */
 public class Citizenship {
-  
+  public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
+    Matcher matcher = Pattern.compile("Гражданство:\\s+(\\pL+)\\s+", Pattern.DOTALL|Pattern.CASE_INSENSITIVE).matcher(txt);
+    String citizenship = "not found";
+    if (matcher.find()) citizenship = matcher.group(1);
+    return citizenship;
+  }  
 }
