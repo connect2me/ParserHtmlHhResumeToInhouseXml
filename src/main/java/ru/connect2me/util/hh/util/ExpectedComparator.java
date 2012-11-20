@@ -75,7 +75,11 @@ public class ExpectedComparator implements Comparator<String>{
       DocumentBuilder builder = factory.newDocumentBuilder();
       builder.setErrorHandler(new SimpleErrorHandler());
       document = builder.parse(new ByteArrayInputStream(inXml.getBytes("UTF-8")));
-    } catch (ParserConfigurationException | SAXException | IOException ex) {
+    } catch (ParserConfigurationException ex) {
+      System.out.println("Не могу сформировать org.w3c.dom.Document из входной строки.");
+    }catch(SAXException ex) {
+      System.out.println("Не могу сформировать org.w3c.dom.Document из входной строки.");
+    }catch(IOException ex) {
       System.out.println("Не могу сформировать org.w3c.dom.Document из входной строки.");
     }
     return document;

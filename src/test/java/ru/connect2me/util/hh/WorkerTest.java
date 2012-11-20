@@ -45,7 +45,6 @@ public class WorkerTest {
       IOUtils.copy(is, writer, "UTF-8");
       String result001 = new Worker().execute(writer.toString());
 
-      
       is = CheckTest.class.getResourceAsStream("/test/input/expectedResult001.txt");
       writer = new StringWriter();
       IOUtils.copy(is, writer, "UTF-8");
@@ -53,7 +52,9 @@ public class WorkerTest {
       String expected001 = writer.toString();
       map.put(expected001, result001);
       
-    } catch (IOException | ParserHtmlHhResumeToInhouseXmlException ex) {
+    } catch(IOException ex) {
+      ex.printStackTrace();
+    }catch(ParserHtmlHhResumeToInhouseXmlException ex) {
       ex.printStackTrace();
     }
   }

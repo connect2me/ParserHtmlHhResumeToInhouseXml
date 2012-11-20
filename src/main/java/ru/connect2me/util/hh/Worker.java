@@ -1,6 +1,5 @@
 package ru.connect2me.util.hh;
 
-import ru.connect2me.util.hh.util.Check;
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.Properties;
@@ -13,6 +12,7 @@ import ru.connect2me.util.hh.config.Module;
 import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
 import ru.connect2me.util.hh.config.XMLConfiguration;
 import ru.connect2me.util.hh.helper.*;
+import ru.connect2me.util.hh.util.Check;
 
 /**
  * Входная точка сервиса

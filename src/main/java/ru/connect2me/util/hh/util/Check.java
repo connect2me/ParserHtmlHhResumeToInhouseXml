@@ -30,7 +30,11 @@ public class Check {
       DocumentBuilder builder = factory.newDocumentBuilder();
       builder.setErrorHandler(new SimpleErrorHandler());
       Document document = builder.parse(new ByteArrayInputStream(inXml.getBytes("UTF-8")));
-    } catch (ParserConfigurationException | SAXException | IOException ex) {
+    } catch(ParserConfigurationException ex) {
+      response = false;
+    }catch(SAXException ex) {
+      response = false;
+    }catch(IOException ex) {
       response = false;
     }
     return response;

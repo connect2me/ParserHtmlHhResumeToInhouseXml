@@ -26,7 +26,11 @@ public class Location {
   public Location() throws ParserHtmlHhResumeToInhouseXmlException {
     try {
       init(Location.class.getResourceAsStream("/rocid.xml"));
-    } catch (SAXException | IOException | ParserConfigurationException ex) {
+    } catch(SAXException ex) {
+      throw new ParserHtmlHhResumeToInhouseXmlException("Серьезная ошибка: невозможно распарсить справочник по городам - файл rocid.xml.");
+    }catch(IOException ex) {
+      throw new ParserHtmlHhResumeToInhouseXmlException("Серьезная ошибка: невозможно распарсить справочник по городам - файл rocid.xml.");
+    }catch(ParserConfigurationException ex) {
       throw new ParserHtmlHhResumeToInhouseXmlException("Серьезная ошибка: невозможно распарсить справочник по городам - файл rocid.xml.");
     }
   }

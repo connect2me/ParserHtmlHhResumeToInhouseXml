@@ -24,7 +24,11 @@ public class XMLConfiguration implements Configuration {
     if (src == null) throw new ParserHtmlHhResumeToInhouseXmlException("Не могу найти конфигурационного файла xml.");
     try {
       init(src);
-    } catch (SAXException | IOException | ParserConfigurationException e) {
+    } catch(SAXException e) {
+      throw new ParserHtmlHhResumeToInhouseXmlException("Не могу распарсить конфигурационный файл xml.");
+    }catch(IOException e) {
+      throw new ParserHtmlHhResumeToInhouseXmlException("Не могу распарсить конфигурационный файл xml.");
+    }catch(ParserConfigurationException e) {
       throw new ParserHtmlHhResumeToInhouseXmlException("Не могу распарсить конфигурационный файл xml.");
     }
   }
