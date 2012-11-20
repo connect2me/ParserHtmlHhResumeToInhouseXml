@@ -1,5 +1,6 @@
 package ru.connect2me.util.hh.helper;
 
+import ru.connect2me.util.hh.util.Check;
 import java.io.InputStream;
 import java.io.StringWriter;
 import java.util.HashMap;
@@ -13,7 +14,7 @@ import org.apache.commons.io.IOUtils;
  * @author Зайнуллин Радик
  */
 public class CheckTest extends TestCase {
-  Map map = new HashMap();
+  private Map map = new HashMap();
 
   public CheckTest(String testName) {
     super(testName);

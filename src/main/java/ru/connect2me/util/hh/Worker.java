@@ -1,5 +1,6 @@
 package ru.connect2me.util.hh;
 
+import ru.connect2me.util.hh.util.Check;
 import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.Properties;

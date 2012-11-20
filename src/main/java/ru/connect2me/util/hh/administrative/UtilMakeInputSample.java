@@ -1,4 +1,4 @@
-package ru.connect2me.util.hh.helper;
+package ru.connect2me.util.hh.administrative;
 
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlForm;

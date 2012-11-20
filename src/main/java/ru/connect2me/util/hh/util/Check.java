@@ -1,4 +1,4 @@
-package ru.connect2me.util.hh.helper;
+package ru.connect2me.util.hh.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
