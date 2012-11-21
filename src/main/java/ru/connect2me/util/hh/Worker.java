@@ -53,7 +53,7 @@ public class Worker extends Module implements Command {
       StreamResult sr = new StreamResult(writer);
       StringReader reader = new StringReader("<t></t>");
       TransformerFactory tFactory = TransformerFactory.newInstance();
-      Transformer transformer = tFactory.newTransformer(new StreamSource(ClassLoader.getSystemResourceAsStream("converter.xsl")));
+      Transformer transformer = tFactory.newTransformer(new StreamSource(classLoader.getResourceAsStream("converter.xsl")));
       transformer.setParameter("pId", props.getProperty("id"));
       transformer.setParameter("pFullname", props.getProperty("fullname"));
       transformer.setParameter("pEmail", props.getProperty("email"));
