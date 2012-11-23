@@ -22,4 +22,5 @@
   <bean id="language" class="ru.connect2me.util.hh.helper.Language"/>  
   <bean id="skills" class="ru.connect2me.util.hh.helper.Skills"/> 
   <bean id="trip" class="ru.connect2me.util.hh.helper.Trip"/> 
+  <bean id="schedule" class="ru.connect2me.util.hh.helper.Schedule"/> 
 </beans>

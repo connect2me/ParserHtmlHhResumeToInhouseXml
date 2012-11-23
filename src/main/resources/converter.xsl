@@ -22,7 +22,8 @@
   <xsl:param name="pLanguage" as="xs:string" />   
   <xsl:param name="pSkills" as="xs:string" />   
   <xsl:param name="pTrip" as="xs:string" />
-  
+  <xsl:param name="pSchedule" as="xs:string" />
+ 
   <xsl:template match="/">
     <xsl:element name="resume">
       <xsl:element name="id">
@@ -126,6 +127,9 @@
       <xsl:element name="trip">
         <xsl:value-of select="$pTrip"/>
       </xsl:element>  
+      <xsl:element name="schedule">
+        <xsl:value-of select="$pSchedule"/>
+      </xsl:element>        
     </xsl:element>
   </xsl:template>
   <xsl:template match="//*"/>

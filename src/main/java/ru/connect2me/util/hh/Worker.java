@@ -72,6 +72,8 @@ public class Worker extends Module implements Command {
       transformer.setParameter("pLanguage", props.getProperty("language"));
       transformer.setParameter("pSkills", props.getProperty("skills"));
       transformer.setParameter("pTrip", props.getProperty("trip"));
+      transformer.setParameter("pSchedule", props.getProperty("schedule"));
+      
       transformer.transform(new StreamSource(reader), sr);
       return writer.toString();
     } catch (TransformerException ex) {
@@ -99,6 +101,7 @@ public class Worker extends Module implements Command {
     String language = ctx.getBean("language", Language.class).get(html);         // 16. Получение "знание языков"
     String skills = ctx.getBean("skills", Skills.class).get(html);               // 17. Получение "ключевых навыков"
     String trip = ctx.getBean("trip", Trip.class).get(html);                     // 18. Получение "готовность к командировкам"
+    String schedule = ctx.getBean("schedule", Schedule.class).get(html);         // 18. Получение "занятость - полная, частичная и т.п."
 
     props.put("id", id);
     props.put("fullname", fullname);
@@ -118,6 +121,7 @@ public class Worker extends Module implements Command {
     props.put("language", language);
     props.put("skills", skills);
     props.put("trip", trip);    
+    props.put("schedule", schedule);    
 
     return props;
   }
