@@ -5,23 +5,25 @@ import java.util.regex.Pattern;
 import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
 
 /**
- *  Получение "знание языков"
- * 
+ * Получение "знание языков"
+ *
  * @author Зайнуллин Радик
  */
 public class Language {
+
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
     StringBuilder sbLanguage = new StringBuilder();
     int pos = txt.lastIndexOf("Знание языков");
-    Matcher matcher = Pattern.compile("((Русский|Английский|Немецкий|Финский|Итальянский|Татарский|Испанский|Португальский|Румынский) — \\pL+)", Pattern.DOTALL|Pattern.CASE_INSENSITIVE).matcher(txt);
+    Matcher matcher = Pattern.compile("((Русский|Английский|Немецкий|Финский|Итальянский|Татарский|Испанский|Португальский|Румынский) — \\pL+)", Pattern.DOTALL | Pattern.CASE_INSENSITIVE).matcher(txt);
 
     String language = "not found";
-    matcher.region(pos, txt.length());
-    while (matcher.find()) {
-      sbLanguage.append(matcher.group(1)+"#");
+    if (pos > 0) {
+      matcher.region(pos, txt.length());
+      while (matcher.find()) {
+        sbLanguage.append(matcher.group(1) + "#");
+      }
+      language = sbLanguage.toString().replaceAll("#$", "");
     }
-    language = sbLanguage.toString().replaceAll("#$", "");
-    
     return language;
-  }  
+  }
 }

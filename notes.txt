@@ -1,4 +1,4 @@
-mvn install:install-file -Dfile=ParserHtmlHhResumeToInhouseXml-1.0-SNAPSHOT.jar -DgroupId=ru.connect2me.util.hh -DartifactId=resume-xml -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=ParserHtmlHhResumeToInhouseXml-1.1-SNAPSHOT.jar -DgroupId=ru.connect2me.util.hh -DartifactId=resume-xml -Dversion=1.1 -Dpackaging=jar
 
     <dependency>
       <groupId>ru.connect2me.util.hh</groupId>
