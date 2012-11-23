@@ -12,10 +12,7 @@ import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
 public class Salary {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
     Matcher matcher = Pattern.compile("[\"\\']?resume__position__salary[\"\\']?\\>(.* руб\\.)\\s*\\<", Pattern.DOTALL).matcher(txt);
-    String salary = "not found";
-    if (matcher.find()) {
-      salary = matcher.group(1);
-    }
-    return salary.trim();
+    if (matcher.find()) return matcher.group(1).replaceAll("\\D", "");
+    else return "not found";
   }  
 }
