@@ -21,4 +21,5 @@
   <bean id="workPermit" class="ru.connect2me.util.hh.helper.WorkPermit"/>  
   <bean id="language" class="ru.connect2me.util.hh.helper.Language"/>  
   <bean id="skills" class="ru.connect2me.util.hh.helper.Skills"/> 
+  <bean id="trip" class="ru.connect2me.util.hh.helper.Trip"/> 
 </beans>

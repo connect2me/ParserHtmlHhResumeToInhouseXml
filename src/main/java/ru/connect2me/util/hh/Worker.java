@@ -75,7 +75,7 @@ public class Worker extends Module implements Command {
       transformer.transform(new StreamSource(reader), sr);
       return writer.toString();
     } catch (TransformerException ex) {
-      throw new ParserHtmlHhResumeToInhouseXmlException("Не удалось сделать xlst преобразование");
+      throw new ParserHtmlHhResumeToInhouseXmlException("Не удалось сделать xlst преобразование" + ex.getMessage());
     } 
   }
 
@@ -98,7 +98,7 @@ public class Worker extends Module implements Command {
     String workPermit = ctx.getBean("workPermit", WorkPermit.class).get(html);   // 15. Получение "разрешения на работу"
     String language = ctx.getBean("language", Language.class).get(html);         // 16. Получение "знание языков"
     String skills = ctx.getBean("skills", Skills.class).get(html);               // 17. Получение "ключевых навыков"
-    String trip = ctx.getBean("trip", Trip.class).get(html);               // 17. Получение "ключевых навыков"
+    String trip = ctx.getBean("trip", Trip.class).get(html);                     // 18. Получение "готовность к командировкам"
 
     props.put("id", id);
     props.put("fullname", fullname);
@@ -117,6 +117,7 @@ public class Worker extends Module implements Command {
     props.put("workPermit", workPermit);
     props.put("language", language);
     props.put("skills", skills);
+    props.put("trip", trip);    
 
     return props;
   }

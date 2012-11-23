@@ -21,6 +21,7 @@
   <xsl:param name="pWorkPermit" as="xs:string" />   
   <xsl:param name="pLanguage" as="xs:string" />   
   <xsl:param name="pSkills" as="xs:string" />   
+  <xsl:param name="pTrip" as="xs:string" />
   
   <xsl:template match="/">
     <xsl:element name="resume">
@@ -53,7 +54,7 @@
       </xsl:element>  
       <xsl:element name="salary">
         <xsl:value-of select="$pSalary"/>
-      </xsl:element>          
+      </xsl:element>   
       <xsl:element name="direction">
         <xsl:value-of select="$pDirection"/>
       </xsl:element> 
@@ -122,6 +123,9 @@
             <xsl:if test="not(position() = last())"><xsl:text>&#xa;</xsl:text></xsl:if>
         </xsl:for-each>        
       </xsl:element> 
+      <xsl:element name="trip">
+        <xsl:value-of select="$pTrip"/>
+      </xsl:element>  
     </xsl:element>
   </xsl:template>
   <xsl:template match="//*"/>
