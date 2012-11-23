@@ -5,13 +5,15 @@ import java.util.regex.Pattern;
 import ru.connect2me.util.hh.config.ParserHtmlHhResumeToInhouseXmlException;
 
 /**
- * Получение готовности переехать из резюме
+ *  Получение "готовность к командировкам"
+ * 
  * @author Зайнуллин Радик
  */
-public class Relocation {
+public class Trip {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
-    Matcher matcher = Pattern.compile("готов(а)? к переезду \\(Россия\\)", Pattern.CASE_INSENSITIVE).matcher(txt);
+    // 
+    Matcher matcher = Pattern.compile("Готов(а)? к командировкам", Pattern.CASE_INSENSITIVE).matcher(txt);
     if (matcher.find()) return matcher.group();
     else return "not found";
-  }    
+  }  
 }

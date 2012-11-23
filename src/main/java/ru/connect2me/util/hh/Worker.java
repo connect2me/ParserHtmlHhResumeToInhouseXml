@@ -71,6 +71,7 @@ public class Worker extends Module implements Command {
       transformer.setParameter("pWorkPermit", props.getProperty("workPermit"));
       transformer.setParameter("pLanguage", props.getProperty("language"));
       transformer.setParameter("pSkills", props.getProperty("skills"));
+      transformer.setParameter("pTrip", props.getProperty("trip"));
       transformer.transform(new StreamSource(reader), sr);
       return writer.toString();
     } catch (TransformerException ex) {
@@ -97,6 +98,7 @@ public class Worker extends Module implements Command {
     String workPermit = ctx.getBean("workPermit", WorkPermit.class).get(html);   // 15. Получение "разрешения на работу"
     String language = ctx.getBean("language", Language.class).get(html);         // 16. Получение "знание языков"
     String skills = ctx.getBean("skills", Skills.class).get(html);               // 17. Получение "ключевых навыков"
+    String trip = ctx.getBean("trip", Trip.class).get(html);               // 17. Получение "ключевых навыков"
 
     props.put("id", id);
     props.put("fullname", fullname);
