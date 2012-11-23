@@ -22,7 +22,6 @@
   <xsl:param name="pLanguage" as="xs:string" />   
   <xsl:param name="pSkills" as="xs:string" />   
   
-    
   <xsl:template match="/">
     <xsl:element name="resume">
       <xsl:element name="id">
@@ -31,7 +30,6 @@
       <xsl:element name="fullname">
         <xsl:value-of select="$pFullname"/>
       </xsl:element> 
-
       <xsl:element name="mail">
         <xsl:value-of select="$pEmail"/>
       </xsl:element>
@@ -56,7 +54,6 @@
       <xsl:element name="salary">
         <xsl:value-of select="$pSalary"/>
       </xsl:element>          
-
       <xsl:element name="direction">
         <xsl:value-of select="$pDirection"/>
       </xsl:element> 
@@ -65,7 +62,6 @@
           <xsl:value-of select="'not realized'"/>
         </xsl:element>
       </xsl:element>
-
       <xsl:element name="education">
         <xsl:for-each select="tokenize($pEducation, '##')">
           <xsl:element name="type">
@@ -79,7 +75,6 @@
           </xsl:element>                
         </xsl:for-each>        
       </xsl:element> 
-      
       <xsl:element name="experience">
         <xsl:for-each select="tokenize($pExperience, '##')">
           <xsl:element name="company">
@@ -105,7 +100,6 @@
       <xsl:element name="workPermit">
         <xsl:value-of select="$pWorkPermit"/>
       </xsl:element>            
-
       <xsl:element name="language">
         <xsl:for-each select="tokenize($pLanguage, '#')">
           <xsl:element name="name">
@@ -116,7 +110,6 @@
           </xsl:element>      
         </xsl:for-each>
       </xsl:element>            
-            
       <xsl:element name="resumeName">
         <xsl:value-of select="'not realized'"/>
       </xsl:element>                         
@@ -125,9 +118,8 @@
       </xsl:element>                                                             
       <xsl:element name="skills">
         <xsl:for-each select="tokenize($pSkills, '#')">
-          <xsl:element name="value">
             <xsl:value-of select="." />  
-          </xsl:element>        
+            <xsl:if test="not(position() = last())"><xsl:text>&#xa;</xsl:text></xsl:if>
         </xsl:for-each>        
       </xsl:element> 
     </xsl:element>
