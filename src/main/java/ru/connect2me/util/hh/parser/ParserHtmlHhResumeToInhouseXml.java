@@ -9,6 +9,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
  * @version 1.0
  * @since 2012.11.18
  */
-public interface Command {
+public interface ParserHtmlHhResumeToInhouseXml {
+
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException;
 }
