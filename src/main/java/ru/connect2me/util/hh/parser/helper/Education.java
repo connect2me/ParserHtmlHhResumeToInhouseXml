@@ -1,16 +1,11 @@
 package ru.connect2me.util.hh.parser.helper;
 
 import java.io.ByteArrayInputStream;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.regex.*;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
-import javax.xml.xpath.XPathFactory;
-import org.w3c.dom.Document;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
+import javax.xml.xpath.*;
+import org.w3c.dom.*;
 import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlException;
 
 /**
@@ -20,9 +15,9 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
  */
 public class Education {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
-    StringBuilder sb = new StringBuilder();
     Matcher matcher = Pattern.compile("Образование.+<table.+<tbody>(.+)</tbody>.+</table>.+Знание языков", Pattern.DOTALL).matcher(txt);
     if (matcher.find()) {
+      StringBuilder sb = new StringBuilder();      
       String education = "<root>" + matcher.group(1) + "</root>";
       try {
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -40,16 +35,16 @@ public class Education {
           NodeList nodesYear = (NodeList) xpath.evaluate("/tr/td/text()", newXmlDocument, XPathConstants.NODESET);
           NodeList nodesOrganization = (NodeList) xpath.evaluate("/tr/td/div[count(@*)=0]", newXmlDocument, XPathConstants.NODESET);
           NodeList nodesSpecialty = (NodeList) xpath.evaluate("/tr/td/div[@class='resume__education__org']", newXmlDocument, XPathConstants.NODESET);
-          String year = nodesYear.item(0).getTextContent().trim().replaceAll("\r", "").replaceAll("\n", "").replaceAll("\r\n", "");
-          String organization = nodesOrganization.item(0).getTextContent().trim().replaceAll("\r", "").replaceAll("\n", "").replaceAll("\r\n", "");
-          String specialty = nodesSpecialty.item(0).getTextContent().trim().replaceAll("\r", "").replaceAll("\n", "").replaceAll("\r\n", "");
+          String year = nodesYear.item(0).getTextContent().trim().replaceAll("\r\n|\r|\n", "");
+          String organization = nodesOrganization.item(0).getTextContent().trim().replaceAll("\r\n|\r|\n", "");
+          String specialty = nodesSpecialty.item(0).getTextContent().trim().replaceAll("\r\n|\r|\n", "");
           sb.append("year#" + year + "#organization#" + organization + "#specialty#" + specialty).append("##");
         }
       } catch (Exception ex) {
-        ex.printStackTrace();
+        //throw new ParserHtmlHhResumeToInhouseXmlException("Ошибка при разборе документа для нахождения Education " + ex.getMessage());
+        return "not found";
       }
-    }
-    String edu = sb.toString().replaceAll("##$", "");
-    return edu;
-  }  
+      return sb.toString().replaceAll("##$", "");
+    } else return "not found";
+   }  
 }

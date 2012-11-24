@@ -12,10 +12,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
 public class Birthdate {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
     Matcher matcher = Pattern.compile("\\((\\d{1,2} (января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря) 19\\d{2})\\)").matcher(txt);
-    String birthdate = "not found";
-    if (matcher.find()) {
-      birthdate = matcher.group(1);
-    }
-    return  birthdate;
+    if (matcher.find()) return matcher.group(1);
+    else return "not found";
   }    
 }

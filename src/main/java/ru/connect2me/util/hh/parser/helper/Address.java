@@ -12,10 +12,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
 public class Address {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
     Matcher matcher = Pattern.compile("Почтовый адрес:\\s*(.+?)\\<", Pattern.DOTALL).matcher(txt);
-    String address = "not found";
-    if (matcher.find()) {
-      address = matcher.group(1);
-    }
-    return  address.trim();
+    if (matcher.find()) return matcher.group(1).trim();
+    else return "not found";
   }  
 }

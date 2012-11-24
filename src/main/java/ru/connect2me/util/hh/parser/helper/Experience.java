@@ -1,16 +1,10 @@
 package ru.connect2me.util.hh.parser.helper;
 
 import java.io.ByteArrayInputStream;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
-import javax.xml.xpath.XPathFactory;
-import org.w3c.dom.Document;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
+import java.util.regex.*;
+import javax.xml.parsers.*;
+import javax.xml.xpath.*;
+import org.w3c.dom.*;
 import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlException;
 import ru.connect2me.util.hh.parser.helper.enums.EnumCleaningInputForExperience;
 
@@ -23,19 +17,21 @@ public class Experience {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
     // чистим входной xml
     for (EnumCleaningInputForExperience cur: EnumCleaningInputForExperience.values()) txt = txt.replaceAll(cur.regexp(), "");
-    
     //FileUtils.writeStringToFile(new File("c:\\proj\\XSLT\\src\\main\\resources\\refined.xml"), txt, "UTF-8");
-    StringBuilder sbExperience = new StringBuilder("<root>");
+
     Matcher matcher = Pattern.compile("<div class=\"resume__experience__item\">((\\s*<div(\\s?class=\\s?\"resume__experience__desc\")?\\s*>.+?</div>\\s*)+\\s*)</div>", Pattern.DOTALL).matcher(txt);
-        
-    String experience = "not found";
+    StringBuilder sbExperience = new StringBuilder("<root>");
+    boolean found = false;
     while (matcher.find()) {
       sbExperience.append("<item>");
       sbExperience.append(matcher.group(1));
       sbExperience.append("</item>");
+      found = true;
     }    
     sbExperience.append("</root>");
-   
+    
+    if (!found) return "not found";
+    
     StringBuffer sbExperienceRes = new StringBuffer();
     try {
       DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -74,9 +70,9 @@ public class Experience {
         sbExperienceRes.append("fromDate#" + fromDate + "#toDate#" +toDate+ "#period#" + period + "#organization#" + organization  + "#industry#" + industry + "#position#" + position + "#assumption#" + assumption).append("##");
        }
     } catch (Exception ex) {
-      ex.printStackTrace();
+      // Написать в лог
+      return "not found";
     }
-    experience = sbExperienceRes.toString().replaceAll("##$", "");
-    return experience;
+    return sbExperienceRes.toString().replaceAll("##$", "");
   }  
 }

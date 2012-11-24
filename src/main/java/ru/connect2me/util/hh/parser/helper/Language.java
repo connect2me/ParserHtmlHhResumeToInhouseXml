@@ -16,14 +16,11 @@ public class Language {
     int pos = txt.lastIndexOf("Знание языков");
     Matcher matcher = Pattern.compile("((Русский|Английский|Немецкий|Финский|Итальянский|Татарский|Испанский|Португальский|Румынский) — \\pL+)", Pattern.DOTALL | Pattern.CASE_INSENSITIVE).matcher(txt);
 
-    String language = "not found";
     if (pos > 0) {
       matcher.region(pos, txt.length());
-      while (matcher.find()) {
-        sbLanguage.append(matcher.group(1) + "#");
-      }
-      language = sbLanguage.toString().replaceAll("#$", "");
-    }
-    return language;
+      while (matcher.find()) sbLanguage.append(matcher.group(1) + "#");
+      
+      return sbLanguage.toString().replaceAll("#$", "");
+    } else return "not found";
   }
 }

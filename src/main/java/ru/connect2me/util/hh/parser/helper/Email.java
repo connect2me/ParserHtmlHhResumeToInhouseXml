@@ -12,9 +12,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
 public class Email {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
     Matcher matcher = Pattern.compile("mailto:(\\S+@(?!hh.ru)[^\\s'\"]+)").matcher(txt);
-    String email = "not found";
-    if (matcher.find()) email = matcher.group(1);
+    if (matcher.find()) return matcher.group(1);
     else throw new ParserHtmlHhResumeToInhouseXmlException("Серьезная ошибка - не смогли получить email из резюме.");
-    return email.trim();
   }    
 }

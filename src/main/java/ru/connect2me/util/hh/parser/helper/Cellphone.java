@@ -20,7 +20,7 @@ public class Cellphone {
       matcher = Pattern.compile("(\\+7.*?)\\<", Pattern.DOTALL).matcher(txt);
       matcher.region(pos, txt.length());
       if (matcher.find()) cell = matcher.group(1);
-    }
+    } 
     return cell.trim();
   }   
 }
