@@ -4,7 +4,7 @@
 
   <groupId>ru.connect2me.util.hh</groupId>
   <artifactId>ParserHtmlHhResumeToInhouseXml</artifactId>
-  <version>1.6.4</version>
+  <version>1.6.5</version>
   <packaging>jar</packaging>
 
   <name>ParserHtmlHhResumeToInhouseXml</name>

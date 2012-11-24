@@ -10,7 +10,6 @@ import ru.connect2me.util.hh.parser.util.Check;
 
 /**
  * Входная точка сервиса
- *
  * @author Зайнуллин Радик
  * @version 1.0
  * @since 2012.11.18
@@ -22,15 +21,12 @@ public class Worker extends Module implements ParserHtmlHhResumeToInhouseXml {
 
   @Override
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException {
+    logger.info("Hello from jar - Worker");
     // Проверка наличия входного текста
-    if (html == null || html.matches("\\s*")) {
-      throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл пустой или null.");
-    }
+    if (html == null || html.matches("\\s*")) throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл пустой или null.");
     // Проверка входной xml на well-formed
     Check check = ctx.getBean("check", Check.class);
-    if (!check.isWellFormed(html)) {
-      throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл не является xml well-formed!");
-    }
+    if (!check.isWellFormed(html)) throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл не является xml well-formed!");
     // Чистка входного текста &apos; -> ' &#xD; -> <br/>
     html = html.replaceAll("&apos;", "'");
     // Парсинг входного текста

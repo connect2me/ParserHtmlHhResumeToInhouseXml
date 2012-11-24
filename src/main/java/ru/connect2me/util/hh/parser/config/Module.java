@@ -1,6 +1,7 @@
 package ru.connect2me.util.hh.parser.config;
 
 import java.util.Properties;
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
@@ -14,8 +15,8 @@ import org.springframework.context.support.GenericXmlApplicationContext;
 public abstract class Module {
   protected static ClassLoader classLoader;
   protected static GenericXmlApplicationContext ctx;
-  private static final org.slf4j.Logger logger = LoggerFactory.getLogger(Module.class);
-  protected static Properties props;// свойства из config.xml, props короче чем getProperties()
+  protected static final Logger logger = LoggerFactory.getLogger(Module.class);
+  protected static Properties props; // свойства из config.xml, props короче чем getProperties()
 
   public Module(Configuration config) {
     init(config);
@@ -32,7 +33,5 @@ public abstract class Module {
     ctx.refresh();    
   }
 
-  public Properties getProperties() {
-    return props;
-  }
+  public Properties getProperties() { return props; }
 }
