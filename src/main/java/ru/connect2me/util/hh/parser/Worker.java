@@ -1,6 +1,7 @@
 package ru.connect2me.util.hh.parser;
 
 import java.io.*;
+import java.util.Enumeration;
 import java.util.Properties;
 import javax.xml.transform.*;
 import javax.xml.transform.stream.*;
@@ -21,11 +22,12 @@ public class Worker extends Module implements ParserHtmlHhResumeToInhouseXml {
 
   @Override
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException {
-    logger.info("info - Hello from jar - Worker");
-    logger.debug("debug - Hello from jar - Worker");
-    logger.error("error - Hello from jar - Worker");
-    logger.warn("warn - Hello from jar - Worker");    
-    logger.trace("trace - Hello from jar - Worker");    
+    logger.info("Разбор входного hh-резюме.");
+    logger.info(html);
+//    logger.debug("debug - Hello from jar - Worker");
+//    logger.error("error - Hello from jar - Worker");
+//    logger.warn("warn - Hello from jar - Worker");    
+//    logger.trace("trace - Hello from jar - Worker");    
     // Проверка наличия входного текста
     if (html == null || html.matches("\\s*")) throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл пустой или null.");
     // Проверка входной xml на well-formed
@@ -35,6 +37,14 @@ public class Worker extends Module implements ParserHtmlHhResumeToInhouseXml {
     html = html.replaceAll("&apos;", "'");
     // Парсинг входного текста
     Properties props = parse(html);
+    
+    // Запишем в лог полученные парсером величины
+    Enumeration eProps = props.propertyNames();
+    while (props.propertyNames().hasMoreElements()) { 
+        String key = (String) eProps.nextElement(); 
+        String value = props.getProperty(key); 
+        logger.info(key + " => " + value);
+    }
     // Получение выходного xml
     return convert(props);
   }
