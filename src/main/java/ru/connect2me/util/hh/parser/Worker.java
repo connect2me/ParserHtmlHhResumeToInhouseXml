@@ -40,7 +40,7 @@ public class Worker extends Module implements ParserHtmlHhResumeToInhouseXml {
     
     // Запишем в лог полученные парсером величины
     Enumeration eProps = props.propertyNames();
-    while (props.propertyNames().hasMoreElements()) { 
+    while (eProps.hasMoreElements()) { 
         String key = (String) eProps.nextElement(); 
         String value = props.getProperty(key); 
         logger.info(key + " => " + value);
