@@ -21,7 +21,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
 public class UtilMakeOutputSample {
 
   public static void main(String[] args) throws ParserHtmlHhResumeToInhouseXmlException {
-    InputStream is = UtilMakeOutputSample.class.getResourceAsStream("/test/input/sample001.txt");
+    InputStream is = UtilMakeOutputSample.class.getResourceAsStream("/test/input/real_english_resume001.txt");
     StringWriter writer = new StringWriter();
     try {
       IOUtils.copy(is, writer, "UTF-8");
@@ -31,7 +31,7 @@ public class UtilMakeOutputSample {
 
     String result = new Worker().execute(writer.toString());
 
-    URL url = UtilMakeInputSample.class.getResource("/test/input/newExpectedResult.txt");
+    URL url = UtilMakeInputSample.class.getResource("/test/input/real_english_resume001_result.txt");
     File file = null;
     try {
       file = new File(url.toURI().getPath());

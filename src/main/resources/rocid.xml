@@ -8,6 +8,12 @@
         <name>Москва</name>
     </city>
     <city>
+        <city_id>4400</city_id>
+        <country_id>3159</country_id>
+        <region_id>4312</region_id>
+        <name>Moscow</name>
+    </city>    
+    <city>
         <city_id>4313</city_id>
         <country_id>3159</country_id>
         <region_id>4312</region_id>
@@ -1039,6 +1045,12 @@
         <region_id>4925</region_id>
         <name>Санкт-Петербург</name>
     </city>
+    <city>
+        <city_id>4962</city_id>
+        <country_id>3159</country_id>
+        <region_id>4925</region_id>
+        <name>Saint Petersburg</name>
+    </city>    
     <city>
         <city_id>4926</city_id>
         <country_id>3159</country_id>
