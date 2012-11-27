@@ -8,7 +8,7 @@ import java.net.URISyntaxException;
 import java.net.URL;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
-import ru.connect2me.util.hh.parser.Worker;
+import ru.connect2me.util.hh.parser.ParserHtmlHhResumeToInhouseXml;
 import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlException;
 
 /**
@@ -29,7 +29,7 @@ public class UtilMakeOutputSample {
       System.out.println("Не могу прочесть тестовый файл.");
     }
 
-    String result = new Worker().execute(writer.toString());
+    String result = new ParserHtmlHhResumeToInhouseXml().execute(writer.toString());
 
     URL url = UtilMakeOutputSample.class.getResource("/test/input/real_english_resume001_result.txt");
     File file = null;

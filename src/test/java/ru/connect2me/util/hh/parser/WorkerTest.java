@@ -43,7 +43,7 @@ public class WorkerTest {
       InputStream is = CheckTest.class.getResourceAsStream("/test/input/sample001.txt");
       StringWriter writer = new StringWriter();
       IOUtils.copy(is, writer, "UTF-8");
-      String result001 = new Worker().execute(writer.toString());
+      String result001 = new ParserHtmlHhResumeToInhouseXml().execute(writer.toString());
 
       is = CheckTest.class.getResourceAsStream("/test/input/expectedResult001.txt");
       writer = new StringWriter();

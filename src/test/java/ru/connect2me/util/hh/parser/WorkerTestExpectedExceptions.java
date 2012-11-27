@@ -31,10 +31,10 @@ public class WorkerTestExpectedExceptions {
 
   @Test(expected = ParserHtmlHhResumeToInhouseXmlException.class)
   public void executeNullThrowsParserHtmlHhResumeToInhouseXmlException() throws ParserHtmlHhResumeToInhouseXmlException {
-    new Worker().execute(null);
+    new ParserHtmlHhResumeToInhouseXml().execute(null);
   }
   @Test(expected = ParserHtmlHhResumeToInhouseXmlException.class)
   public void executeEmptyThrowsParserHtmlHhResumeToInhouseXmlException() throws ParserHtmlHhResumeToInhouseXmlException {
-    new Worker().execute("  ");
+    new ParserHtmlHhResumeToInhouseXml().execute("  ");
   }  
 }
