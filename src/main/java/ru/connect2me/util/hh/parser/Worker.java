@@ -19,7 +19,7 @@ public class Worker extends Module implements ParserHtmlHhResumeToInhouseXml {
   public Worker() throws ParserHtmlHhResumeToInhouseXmlException {
     super(new XMLConfiguration(Worker.class.getResourceAsStream("/config.xml")));
   }
-
+  // умеет парсить входную html вакансии полученную с hh.ru в выходную xml для нашего использования
   @Override
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException {
     logger.info("Разбор входного hh-резюме.");

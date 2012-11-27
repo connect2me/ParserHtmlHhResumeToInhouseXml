@@ -31,7 +31,7 @@ public class UtilMakeOutputSample {
 
     String result = new Worker().execute(writer.toString());
 
-    URL url = UtilMakeInputSample.class.getResource("/test/input/real_english_resume001_result.txt");
+    URL url = UtilMakeOutputSample.class.getResource("/test/input/real_english_resume001_result.txt");
     File file = null;
     try {
       file = new File(url.toURI().getPath());

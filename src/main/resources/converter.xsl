@@ -79,20 +79,22 @@
       </xsl:element> 
       <xsl:element name="experience">
         <xsl:for-each select="tokenize($pExperience, '##')">
-          <xsl:element name="company">
-            <xsl:value-of select="replace(., '.+organization#(.+)#industry.+', '$1')" />  
-          </xsl:element>          
-          <xsl:element name="fromdate">
-            <xsl:value-of select="replace(., 'fromDate#(.+)#toDate#.+', '$1')" />  
-          </xsl:element>                
-          <xsl:element name="todate">
-            <xsl:value-of select="replace(., '.+#toDate#(.+)#period.+', '$1')" />  
-          </xsl:element>                          
-          <xsl:element name="position">
-            <xsl:value-of select="replace(., '.+#position#(.+)#assumption.+', '$1')" />  
-          </xsl:element>  
-          <xsl:element name="about">
-            <xsl:value-of select="replace(., '.+#assumption(.+)', '$1')" />  
+          <xsl:element name="item">
+            <xsl:element name="company">
+              <xsl:value-of select="replace(., '.+organization#(.+)#industry.+', '$1')" />  
+            </xsl:element>          
+            <xsl:element name="fromdate">
+              <xsl:value-of select="replace(., 'fromDate#(.+)#toDate#.+', '$1')" />  
+            </xsl:element>                
+            <xsl:element name="todate">
+              <xsl:value-of select="replace(., '.+#toDate#(.+)#period.+', '$1')" />  
+            </xsl:element>                          
+            <xsl:element name="position">
+              <xsl:value-of select="replace(., '.+#position#(.+)#assumption.+', '$1')" />  
+            </xsl:element>  
+            <xsl:element name="about">
+              <xsl:value-of select="replace(., '.+#assumption(.+)', '$1')" />  
+            </xsl:element>            
           </xsl:element>            
         </xsl:for-each>  
       </xsl:element> 
@@ -120,8 +122,10 @@
       </xsl:element>                                                             
       <xsl:element name="skills">
         <xsl:for-each select="tokenize($pSkills, '#')">
-            <xsl:value-of select="." />  
-            <xsl:if test="not(position() = last())"><xsl:text>&#xa;</xsl:text></xsl:if>
+          <xsl:value-of select="." />  
+          <xsl:if test="not(position() = last())">
+            <xsl:text>&#xa;</xsl:text>
+          </xsl:if>
         </xsl:for-each>        
       </xsl:element> 
       <xsl:element name="trip">

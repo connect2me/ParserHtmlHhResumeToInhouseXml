@@ -20,3 +20,15 @@ The /WEB-INF folder convention is specific to WAR files, not to JAR files. Get r
 ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
 InputStream input = classLoader.getResourceAsStream("META-INF/test.properties");
 // ...
+
+
+        <dependency>
+            <groupId>ru.connect2me.util.hh.parser</groupId>
+            <artifactId>resume-xml</artifactId>
+            <version>1.6.9</version>
+        </dependency>
+        <dependency>
+            <groupId>ru.connect2me.util.hh</groupId>
+            <artifactId>hh-resume-get</artifactId>
+            <version>1.4.14</version>
+        </dependency>

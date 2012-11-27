@@ -11,8 +11,11 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
  */
 public class Direction {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
-    Matcher matcher = Pattern.compile("\"resume__position__specialization\">(.+?)(\\s?\\→.*?)</div>", Pattern.DOTALL).matcher(txt);
-    if (matcher.find()) return matcher.group(1).replaceAll("\r\n|\r|\n", "").replaceAll("\\s+", " ").replaceAll("\\s*$", "");
-    else return "not found";
+    Matcher m1 = Pattern.compile("\"resume__position__specialization\">(.+?)(\\s?\\→.*?)</div>", Pattern.DOTALL).matcher(txt);
+    Matcher m2 = Pattern.compile("\"resume__position__specialization\">(.+?)</div>", Pattern.DOTALL).matcher(txt);
+    
+    if (m1.find()) return m1.group(1).replaceAll("\r\n|\r|\n", "").replaceAll("\\s+", " ").replaceAll("\\s*$", "");
+    else if (m2.find()) return m2.group(1).replaceAll("\r\n|\r|\n", "").replaceAll("\\s+", " ").replaceAll("\\s*$", "");
+    else return "not found";    
   }  
 }

@@ -10,7 +10,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
  */
 public class WorkPermit {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
-    Matcher matcher = Pattern.compile("Разрешение на работу:\\s+(\\pL+)\\s+", Pattern.DOTALL|Pattern.CASE_INSENSITIVE).matcher(txt);
+    Matcher matcher = Pattern.compile("(?:Разрешение на работу:|Work permit:)\\s+(\\pL+)\\s+", Pattern.DOTALL|Pattern.CASE_INSENSITIVE).matcher(txt);
     if (matcher.find()) return matcher.group(1);
     return "not found";
   }  

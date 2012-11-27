@@ -10,7 +10,7 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
  */
 public class Trip {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
-    Matcher matcher = Pattern.compile("Готов(а)? к командировкам|Готов(а)? к редким командировкам", Pattern.CASE_INSENSITIVE).matcher(txt);
+    Matcher matcher = Pattern.compile("Готов(а)? к командировкам|Готов(а)? к редким командировкам|Ready for business trips", Pattern.CASE_INSENSITIVE).matcher(txt);
     if (matcher.find()) return matcher.group();
     else return "not found";
   }  
