@@ -13,9 +13,10 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlException;
 import ru.connect2me.util.hh.parser.helper.CheckTest;
-import ru.connect2me.util.hh.parser.util.Check;
 import ru.connect2me.util.hh.parser.util.ExpectedComparator;
 
 /**
@@ -23,7 +24,10 @@ import ru.connect2me.util.hh.parser.util.ExpectedComparator;
  * @author r.zaynullin
  */
 public class WorkerTest {
-
+  private JdbcTemplate jdbcTemplate;
+  private NamedParameterJdbcTemplate namedParameterJdbcTemplate;
+  
+  
   private Map map = new HashMap();
 
   public WorkerTest() {
@@ -51,10 +55,10 @@ public class WorkerTest {
 
       String expected001 = writer.toString();
       map.put(expected001, result001);
-      
-    } catch(IOException ex) {
+
+    } catch (IOException ex) {
       ex.printStackTrace();
-    }catch(ParserHtmlHhResumeToInhouseXmlException ex) {
+    } catch (ParserHtmlHhResumeToInhouseXmlException ex) {
       ex.printStackTrace();
     }
   }

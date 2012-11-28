@@ -11,8 +11,8 @@ import ru.connect2me.util.hh.parser.config.ParserHtmlHhResumeToInhouseXmlExcepti
  */
 public class FullName {
   public String get(String txt) throws ParserHtmlHhResumeToInhouseXmlException {
-    Matcher matcher = Pattern.compile("resume__personal__name['\"]?\\s*\\>\\s*([\\pL]+[\\s+\\pL]*)\\s*\\<\\/div").matcher(txt);
-     if (matcher.find()) return matcher.group(1).trim();
+    Matcher matcher = Pattern.compile("resume__personal__name['\"]?\\s*\\>\\s*([-\\pL]+[-\\s+\\pL]*)\\s*\\<\\/div").matcher(txt);
+     if (matcher.find()) return matcher.group(1).trim().replaceFirst("-\\s+", "");
      else throw new ParserHtmlHhResumeToInhouseXmlException("Серьезная ошибка - не смогли получить ФИО из резюме.");
   }  
 }

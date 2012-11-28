@@ -24,10 +24,6 @@ public class ParserHtmlHhResumeToInhouseXml extends Module implements IParserHtm
   public String execute(String html) throws ParserHtmlHhResumeToInhouseXmlException {
     logger.info("Разбор входного hh-резюме.");
     logger.info(html);
-//    logger.debug("debug - Hello from jar - Worker");
-//    logger.error("error - Hello from jar - Worker");
-//    logger.warn("warn - Hello from jar - Worker");    
-//    logger.trace("trace - Hello from jar - Worker");    
     // Проверка наличия входного текста
     if (html == null || html.matches("\\s*")) throw new ParserHtmlHhResumeToInhouseXmlException("Входной файл пустой или null.");
     // Проверка входной xml на well-formed
