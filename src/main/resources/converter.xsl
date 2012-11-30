@@ -60,21 +60,25 @@
         <xsl:value-of select="$pDirection"/>
       </xsl:element> 
       <xsl:element name="area">
-        <xsl:element name="name">
-          <xsl:value-of select="'not realized'"/>
+        <xsl:element name="item">
+          <xsl:element name="name">
+            <xsl:value-of select="'not realized'"/>
+          </xsl:element>
         </xsl:element>
       </xsl:element>
       <xsl:element name="education">
         <xsl:for-each select="tokenize($pEducation, '##')">
-          <xsl:element name="type">
-            <xsl:value-of select="replace(., '.+organization#(.+)#specialty.+', '$1')" />  
-          </xsl:element>          
-          <xsl:element name="year">
-            <xsl:value-of select="replace(., 'year#(.+)#organization.+', '$1')" />  
-          </xsl:element>          
-          <xsl:element name="about">
-            <xsl:value-of select="replace(., '.+specialty#(.+)$', '$1')" />  
-          </xsl:element>                
+          <xsl:element name="item">
+            <xsl:element name="type">
+              <xsl:value-of select="replace(., '.+organization#(.+)#specialty.+', '$1')" />  
+            </xsl:element>          
+            <xsl:element name="year">
+              <xsl:value-of select="replace(., 'year#(.+)#organization.+', '$1')" />  
+            </xsl:element>          
+            <xsl:element name="about">
+              <xsl:value-of select="replace(., '.+specialty#(.+)$', '$1')" />  
+            </xsl:element> 
+          </xsl:element>               
         </xsl:for-each>        
       </xsl:element> 
       <xsl:element name="experience">
@@ -106,12 +110,14 @@
       </xsl:element>            
       <xsl:element name="language">
         <xsl:for-each select="tokenize($pLanguage, '#')">
-          <xsl:element name="name">
-            <xsl:value-of select="replace(., '(.+) — .+', '$1')" />  
-          </xsl:element>        
-          <xsl:element name="type">
-            <xsl:value-of select="replace(., '.+ — (.+)', '$1')" />
-          </xsl:element>      
+          <xsl:element name="item">          
+            <xsl:element name="name">
+              <xsl:value-of select="replace(., '(.+) — .+', '$1')" />  
+            </xsl:element>        
+            <xsl:element name="type">
+              <xsl:value-of select="replace(., '.+ — (.+)', '$1')" />
+            </xsl:element>      
+          </xsl:element>          
         </xsl:for-each>
       </xsl:element>            
       <xsl:element name="resumeName">
@@ -122,10 +128,12 @@
       </xsl:element>                                                             
       <xsl:element name="skills">
         <xsl:for-each select="tokenize($pSkills, '#')">
-          <xsl:value-of select="." />  
-          <xsl:if test="not(position() = last())">
-            <xsl:text>&#xa;</xsl:text>
-          </xsl:if>
+          <xsl:element name="item">
+            <xsl:value-of select="." />  
+            <xsl:if test="not(position() = last())">
+              <xsl:text>&#xa;</xsl:text>
+            </xsl:if>
+          </xsl:element>
         </xsl:for-each>        
       </xsl:element> 
       <xsl:element name="trip">
