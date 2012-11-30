@@ -16,7 +16,7 @@ public abstract class Module {
   protected static ClassLoader classLoader;
   protected static GenericXmlApplicationContext ctx;
   protected static final Logger logger = LoggerFactory.getLogger(Module.class);
-  protected static Properties props; // свойства из config.xml, props короче чем getProperties()
+  protected static Properties props; // свойства из config.xml
 
   public Module(Configuration config) {
     init(config);

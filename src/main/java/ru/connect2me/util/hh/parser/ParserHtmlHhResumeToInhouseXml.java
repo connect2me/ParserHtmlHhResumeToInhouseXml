@@ -17,7 +17,7 @@ import ru.connect2me.util.hh.parser.util.Check;
  */
 public class ParserHtmlHhResumeToInhouseXml extends Module implements IParserHtmlHhResumeToInhouseXml {
   public ParserHtmlHhResumeToInhouseXml() throws ParserHtmlHhResumeToInhouseXmlException {
-    super(new XMLConfiguration(ParserHtmlHhResumeToInhouseXml.class.getResourceAsStream("/config.xml")));
+    super(new XMLConfiguration(ParserHtmlHhResumeToInhouseXml.class.getResourceAsStream("/config-ParserHtmlHhResumeToInhouseXml.xml")));
   }
   // умеет парсить входную html вакансии полученную с hh.ru в выходную xml для нашего использования
   @Override

@@ -21,7 +21,7 @@ import ru.connect2me.util.hh.parser.util.ExpectedComparator;
 
 /**
  *
- * @author r.zaynullin
+ * @author gggg
  */
 public class WorkerTest {
   private JdbcTemplate jdbcTemplate;
