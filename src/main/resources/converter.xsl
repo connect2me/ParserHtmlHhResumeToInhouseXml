@@ -23,6 +23,7 @@
   <xsl:param name="pSkills" as="xs:string" />   
   <xsl:param name="pTrip" as="xs:string" />
   <xsl:param name="pSchedule" as="xs:string" />
+  <xsl:param name="pResumeName" as="xs:string" />
  
   <xsl:template match="/">
     <xsl:element name="resume">
@@ -121,7 +122,7 @@
         </xsl:for-each>
       </xsl:element>            
       <xsl:element name="resumeName">
-        <xsl:value-of select="'not realized'"/>
+        <xsl:value-of select="$pResumeName"/>
       </xsl:element>                         
       <xsl:element name="additional">
         <xsl:value-of select="'not realized'"/>

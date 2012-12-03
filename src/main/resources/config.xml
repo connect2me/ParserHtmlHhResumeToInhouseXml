@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-  <parameters>
-    <parameter name="file_name_xsl">converter.xsl</parameter>
-  </parameters>
-</config>

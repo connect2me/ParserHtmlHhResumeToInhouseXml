@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -27,6 +26,8 @@
   <bean id="skills" class="ru.connect2me.util.hh.parser.helper.Skills"/> 
   <bean id="trip" class="ru.connect2me.util.hh.parser.helper.Trip"/> 
   <bean id="schedule" class="ru.connect2me.util.hh.parser.helper.Schedule"/> 
+  <bean id="resumeName" class="ru.connect2me.util.hh.parser.helper.ResumeName"/> 
+  
 <!--  <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
     <property name="driverClassName">
       <value>${jdbc.driverClassName}</value>
@@ -42,8 +43,8 @@
     </property>
   </bean>
   <context:property-placeholder location="jdbc.properties" />
-  
+ 
   <bean name="" class="ru.connect2me.util.hh.parser.WorkerTest">
-    
+  
   </bean>-->
 </beans>

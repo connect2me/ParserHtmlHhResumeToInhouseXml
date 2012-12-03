@@ -68,6 +68,7 @@ public class ParserHtmlHhResumeToInhouseXml extends Module implements IParserHtm
       transformer.setParameter("pSkills", props.getProperty("skills"));
       transformer.setParameter("pTrip", props.getProperty("trip"));
       transformer.setParameter("pSchedule", props.getProperty("schedule"));
+      transformer.setParameter("pResumeName", props.getProperty("resumeName"));
       
       StringWriter writer = new StringWriter();      
       transformer.transform(new StreamSource(new StringReader("<t></t>")), new StreamResult(writer));
@@ -98,6 +99,8 @@ public class ParserHtmlHhResumeToInhouseXml extends Module implements IParserHtm
     props.put("skills", ctx.getBean("skills", Skills.class).get(html));       // 17. Получение "ключевых навыков"
     props.put("trip", ctx.getBean("trip", Trip.class).get(html));             // 18. Получение "готовность к командировкам"   
     props.put("schedule", ctx.getBean("schedule", Schedule.class).get(html)); // 19. Получение "занятость - полная, частичная и т.п."   
+props.put("resumeName", ctx.getBean("resumeName", ResumeName.class).get(html)); //20. Получение "желаемая должность"       
+    
     return props;
   }
 }
