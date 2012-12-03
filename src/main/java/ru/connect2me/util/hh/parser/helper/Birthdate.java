@@ -16,14 +16,15 @@ public class Birthdate {
     String formattedDate = "not found"; 
     if (matcher.find()) {
       for (EnumFormatInputDate cur: EnumFormatInputDate.values()) {
-        String str = matcher.group(1);
-        if (str == null) str = matcher.group(2);
-        System.out.println("str " + str);
-        System.out.println("cur.regexp() " + cur.regexp());
-        System.out.println("cur.replacement() " + cur.replacement());
-        formattedDate = str.replaceAll(cur.regexp(), cur.replacement());
+        String str = matcher.group();
+        //System.out.println(str);
+        if (str.matches(cur.regexp())) {
+          formattedDate = str.replaceAll(cur.regexp(), cur.replacement());
+        }
+        //System.out.println("regexp " + cur.regexp() + ", replacement " + cur.replacement());
       }
     } 
+    System.out.println(formattedDate);
     return formattedDate;
   }  
 }
