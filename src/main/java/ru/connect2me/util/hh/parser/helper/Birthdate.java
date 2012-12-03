@@ -17,13 +17,16 @@ public class Birthdate {
     if (matcher.find()) {
       for (EnumFormatInputDate cur: EnumFormatInputDate.values()) {
         String str = matcher.group();
-        //System.out.println(str);
         if (str.matches(cur.regexp())) {
+          System.out.println(str);
+          System.out.println("regexp " + cur.regexp() + ", replacement " + cur.replacement());
           formattedDate = str.replaceAll(cur.regexp(), cur.replacement());
         }
-        //System.out.println("regexp " + cur.regexp() + ", replacement " + cur.replacement());
       }
     } 
+    if (!formattedDate.equals("not found")&&formattedDate.length() < 10) {
+      formattedDate = "0" + formattedDate;
+    }
     System.out.println(formattedDate);
     return formattedDate;
   }  

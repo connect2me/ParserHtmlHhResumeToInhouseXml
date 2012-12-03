@@ -952,7 +952,7 @@ if (HH) {if (HH.insertBanner) {HH.insertBanner('/banners.mvc?placeId=259&siteId=
                       <strong>
                         22 года
                       </strong>
-                       (5 июля 1990)
+                       (5 of June 1990)
                     </span>
                     <span class="resume__inlinelist__item">
                       <strong>

@@ -7,18 +7,18 @@ package ru.connect2me.util.hh.parser.helper.enums;
  * @since 2012.12.03
  */
 public enum EnumFormatInputDate {
-  January("(?i)\\((\\d{1,2}) (января|January) (19\\d{2})\\)", "$1.01.$2"),
-  February("(?i)\\((\\d{1,2}) (февраля|February) (19\\d{2})\\)", "$1.01.$2"),
-  March("(?i)\\((\\d{1,2}) (марта|March) (19\\d{2})\\)", "$1.01.$2"),
-  April("(?i)\\((\\d{1,2}) (апреля|April) (19\\d{2})\\)", "$1.01.$2"),
-  May("(?i)\\((\\d{1,2}) (мая|May) (19\\d{2})\\)", "$1.01.$2"),
-  June("(?i)\\((\\d{1,2}) (июня|June) (19\\d{2})\\)", "$1.01.$2"),
-  July("(?i)\\((\\d{1,2}) (июля|July) (19\\d{2})\\)", "$1.01.$2"),
-  August("(?i)\\((\\d{1,2}) (августа|August) (19\\d{2})\\)", "$1.01.$2"),
-  September("(?i)\\((\\d{1,2}) (сентября|September) (19\\d{2})\\)", "$1.01.$2"),
-  October("(?i)\\((\\d{1,2}) (октября|October) (19\\d{2})\\)", "$1.01.$2"),
-  November("(?i)\\((\\d{1,2}) (ноября|November) (19\\d{2})\\)", "$1.01.$2"),
-  December("(?i)\\((\\d{1,2}) (декабря|December) (19\\d{2})\\)", "$1.01.$2");
+  January("(?i)\\((\\d{1,2}) (?:января|of January) (19\\d{2})\\)", "$1.01.$2"),
+  February("(?i)\\((\\d{1,2}) (?:февраля|of February) (19\\d{2})\\)", "$1.02.$2"),
+  March("(?i)\\((\\d{1,2}) (?:марта|of March) (19\\d{2})\\)", "$1.03.$2"),
+  April("(?i)\\((\\d{1,2}) (?:апреля|of April) (19\\d{2})\\)", "$1.04.$2"),
+  May("(?i)\\((\\d{1,2}) (?:мая|of May) (19\\d{2})\\)", "$1.05.$2"),
+  June("(?i)\\((\\d{1,2}) (?:июня|of June) (19\\d{2})\\)", "$1.06.$2"),
+  July("(?i)\\((\\d{1,2}) (?:июля|of July) (19\\d{2})\\)", "$1.07.$2"),
+  August("(?i)\\((\\d{1,2}) (?:августа|of August) (19\\d{2})\\)", "$1.08.$2"),
+  September("(?i)\\((\\d{1,2}) (?:сентября|of September) (19\\d{2})\\)", "$1.09.$2"),
+  October("(?i)\\((\\d{1,2}) (?:октября|of October) (19\\d{2})\\)", "$1.10.$2"),
+  November("(?i)\\((\\d{1,2}) (?:ноября|of November) (19\\d{2})\\)", "$1.11.$2"),
+  December("(?i)\\((\\d{1,2}) (?:декабря|of December) (19\\d{2})\\)", "$1.12.$2");
   
   private final String regexp;      // искомое выражение
   private final String replacement; // замена
@@ -33,8 +33,6 @@ public enum EnumFormatInputDate {
   }
 
   public String replacement() {
-    StringBuilder sb = new StringBuilder(replacement);
-    if (sb.toString().length()<10) sb.insert(0, "0");
-    return sb.toString();
+    return replacement;
   }  
 }
